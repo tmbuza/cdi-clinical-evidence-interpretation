@@ -1,0 +1,155 @@
+# Risk-Benefit Evaluation
+
+:::cdi-message
+- **ID:** CE-L05
+- **Type:** Lesson
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Evaluating benefit relative to risk
+:::
+
+## Framework Position
+
+This chapter corresponds to the **Risk–Benefit Evaluation** stage of the framework.
+
+After:
+- defining evidence (Chapter 02)  
+- appraising studies (Chapter 03)  
+- identifying bias and limitations (Chapter 04)  
+
+we now ask:
+
+👉 *Does the benefit outweigh the risk for the intended use?*
+
+---
+
+## What is risk-benefit evaluation?
+
+Risk-benefit evaluation is the process of determining whether: (see regulatory guidance [@fda_benefit_risk_2016]).
+
+👉 the **clinical benefits** of a device justify its **potential risks**
+
+This is not a statistical exercise alone.
+
+It is a **clinical and contextual judgment**.
+
+---
+
+## What counts as benefit?
+
+Clinical benefit refers to:
+
+- improvement in patient outcomes  
+- symptom relief  
+- diagnostic accuracy  
+- reduction in disease progression  
+- improved quality of life  
+
+Key requirement:
+
+👉 Benefit must be **clinically meaningful**, not just statistically significant
+
+---
+
+## What counts as risk?
+
+Risk includes:
+
+- adverse events  
+- device-related complications  
+- misuse or user error  
+- long-term safety concerns  
+
+Risk is evaluated in terms of:
+
+- severity  
+- frequency  
+- reversibility  
+
+---
+
+## Benefit vs significance
+
+A statistically significant result does not guarantee meaningful benefit.
+
+Example:
+
+- small improvement → statistically significant  
+- but clinically negligible  
+
+👉 Interpretation must go beyond p-values
+
+---
+
+## Context matters
+
+Risk-benefit balance depends on:
+
+- disease severity  
+- availability of alternatives  
+- patient population  
+- clinical setting  
+
+Example:
+
+- higher risk may be acceptable in life-threatening conditions  
+- lower risk expected for routine or low-impact use  
+
+---
+
+## Integrating evidence
+
+Risk-benefit evaluation requires:
+
+- combining multiple studies  
+- accounting for bias and limitations  
+- weighing strength of evidence  
+
+Not all evidence contributes equally.
+
+---
+
+## Structured approach
+
+A simple structure:
+
+1. What benefits are demonstrated?  
+2. How strong is the supporting evidence?  
+3. What risks are identified?  
+4. How certain are those risks?  
+5. Does benefit outweigh risk in the intended use?  
+
+---
+
+## Common pitfalls
+
+- focusing only on benefits  
+- underestimating risks  
+- ignoring uncertainty  
+- overgeneralizing findings  
+- failing to consider clinical context  
+
+---
+
+## From evaluation to judgment
+
+Risk-benefit evaluation leads to:
+
+👉 a **justified clinical position**
+
+Not absolute certainty, but **defensible reasoning**
+
+---
+
+## Key takeaway
+
+Clinical evaluation is not about proving benefit alone.
+
+It is about demonstrating that:
+
+👉 benefit outweighs risk for the intended use
+
+---
+
+## What comes next
+
+The next chapter focuses on **equivalence and justification**, where evidence is compared with existing devices.

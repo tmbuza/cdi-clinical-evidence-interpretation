@@ -1,0 +1,202 @@
+# Common Failure Points in Clinical Evaluation
+
+:::cdi-message
+- **ID:** CE-L11
+- **Type:** Lesson
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Identifying where clinical evaluations break down
+:::
+
+## Framework Position
+
+This chapter reflects on the full framework by examining:
+
+👉 where clinical evaluation commonly fails
+
+After building a structured reasoning process, it is important to understand:
+
+👉 how that process breaks in practice
+
+---
+
+## Why failure points matter
+
+Many clinical evaluations contain:  
+
+- sufficient data  
+- multiple studies  
+- statistically significant results  
+
+Yet still fail to support defensible claims.
+
+The issue is often not **lack of data**, but:
+
+👉 breakdown in reasoning
+
+---
+
+## Failure Point 1: Results without context
+
+Focusing on results alone without:  
+
+- intended use  
+- clinical context  
+- population alignment  
+
+👉 leads to misleading conclusions
+
+---
+
+## Failure Point 2: Weak study appraisal
+
+Treating all studies equally without:  
+
+- evaluating design  
+- assessing quality  
+- considering limitations  
+
+👉 inflates weak evidence
+
+---
+
+## Failure Point 3: Ignoring bias and limitations
+
+Failing to explicitly identify:
+
+- bias  
+- uncertainty  
+- constraints  
+
+👉 creates false confidence
+
+---
+
+## Failure Point 4: Overreliance on statistical significance
+
+Equating:
+
+- statistical significance  
+with  
+- clinical relevance  
+
+👉 leads to overstated claims
+
+---
+
+## Failure Point 5: Incomplete risk-benefit evaluation
+
+Focusing on:
+
+- benefits  
+
+while neglecting:
+
+- risks  
+- uncertainty  
+
+👉 results in unbalanced conclusions
+
+---
+
+## Failure Point 6: Unjustified equivalence
+
+Assuming similarity without:
+
+- structured comparison  
+- clinical justification  
+
+👉 weakens evidence transfer
+
+---
+
+## Failure Point 7: Lack of applicability assessment
+
+Ignoring differences between:
+
+- study conditions  
+- real-world use  
+
+👉 reduces real-world validity
+
+---
+
+## Failure Point 8: Poor synthesis
+
+Summarizing studies without:
+
+- integrating findings  
+- resolving inconsistencies  
+- weighing evidence  
+
+👉 results remain disconnected
+
+---
+
+## Failure Point 9: Overclaiming
+
+Making claims that:
+
+- exceed evidence  
+- ignore limitations  
+- generalize beyond scope  
+
+👉 creates regulatory risk
+
+---
+
+## Failure Point 10: Unclear or imprecise wording
+
+Even strong reasoning can fail if:
+
+- claims are vague  
+- language is ambiguous  
+- conclusions are overstated  
+
+👉 weak communication undermines validity
+
+---
+
+## Pattern across failures
+
+Across all failure points, one pattern emerges:
+
+👉 skipping steps in the reasoning chain
+
+Clinical evaluation fails when:
+
+- steps are omitted  
+- connections are not made  
+- reasoning is not explicit  
+
+---
+
+## Structured reflection
+
+When reviewing a clinical evaluation, ask:
+
+1. Is the intended use clearly defined?  
+2. Is evidence appropriately selected?  
+3. Are studies critically appraised?  
+4. Are bias and limitations identified?  
+5. Is risk-benefit properly evaluated?  
+6. Is equivalence justified?  
+7. Is applicability confirmed?  
+8. Is synthesis coherent?  
+9. Are claims proportionate?  
+10. Is wording precise?  
+
+---
+
+## Key takeaway
+
+Clinical evaluation rarely fails because of missing data.
+
+It fails because:
+
+👉 evidence is not translated into defensible reasoning
+
+---
+
+## What comes next
+
+The final chapter summarizes the framework and provides guidance for applying it in practice.

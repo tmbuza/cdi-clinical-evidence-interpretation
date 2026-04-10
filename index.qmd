@@ -1,0 +1,19 @@
+---
+title: ""
+engine: knitr
+format:
+  html:
+    body-classes: front-page
+---
+
+# {-}
+
+
+<div style="text-align: center; margin-top: 1.5em;">
+  <img src="assets/images/cover/clinical-evidence-cover.jpeg" width="75%" />
+</div>
+
+<div style="text-align: center; font-style: normal; margin-top: 1em;">
+  Internal Playbook · Updated `r format(Sys.Date(), "%b %Y")`
+</div>
+

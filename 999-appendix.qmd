@@ -1,0 +1,217 @@
+# Appendix
+
+:::cdi-message
+- **ID:** CE-APP
+- **Type:** Reference
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Practical tools and structured checklists
+:::
+
+## Purpose of this appendix
+
+This section provides **practical tools** to apply the framework in real-world clinical evaluations.
+
+These are not rigid templates.
+
+They are:
+
+👉 structured aids to support consistent reasoning
+
+---
+
+## Clinical Evaluation Checklist
+
+Use this as a high-level review tool.
+
+### Evidence and Intended Use
+- Is the intended purpose clearly defined?  
+- Is the intended use explicitly described?  
+- Is the target population specified?  
+- Is the evidence aligned with intended use?  
+
+---
+
+### Study Appraisal
+- Are study designs appropriate?  
+- Are populations relevant?  
+- Are endpoints clinically meaningful?  
+- Are methods appropriate?  
+
+---
+
+### Bias and Limitations
+- Are potential biases identified?  
+- Are limitations clearly stated?  
+- Is uncertainty acknowledged?  
+
+---
+
+### Risk–Benefit Evaluation
+- Are benefits clearly defined?  
+- Are risks characterized (severity, frequency)?  
+- Is benefit balanced against risk?  
+
+---
+
+### Equivalence and Justification
+- Is equivalence appropriately assessed?  
+- Are similarities and differences analyzed?  
+- Is justification clearly explained?  
+
+---
+
+### Clinical Context and Applicability
+- Does the evidence reflect real-world use?  
+- Are contextual differences addressed?  
+
+---
+
+### Synthesis and Interpretation
+- Are findings integrated across studies?  
+- Are inconsistencies addressed?  
+- Is uncertainty incorporated?  
+
+---
+
+### Claims
+- Are claims supported by evidence?  
+- Are claims proportionate to evidence strength?  
+- Are limitations reflected in claims?  
+
+---
+
+### Communication
+- Are claims clearly written?  
+- Is wording precise and unambiguous?  
+- Is traceability to evidence maintained?  
+
+---
+
+## Study Appraisal Worksheet
+
+For each study, document:
+
+- Study design  
+- Population  
+- Endpoints  
+- Sample size  
+- Key findings  
+- Strengths  
+- Limitations  
+- Potential bias  
+- Overall reliability  
+
+---
+
+## Bias Identification Guide
+
+When reviewing a study, check for:
+
+- Selection bias  
+- Measurement bias  
+- Confounding  
+- Reporting bias  
+- Attrition bias  
+
+Ask:
+
+👉 How could this bias affect the results?
+
+---
+
+## Risk–Benefit Evaluation Template
+
+### Benefits
+- What benefits are observed?  
+- How clinically meaningful are they?  
+
+### Risks
+- What risks are identified?  
+- What is their severity and frequency?  
+
+### Conclusion
+- Does benefit outweigh risk?  
+- Under what conditions?  
+
+---
+
+## Equivalence Assessment Template
+
+- Comparator device or evidence source  
+- Similarities (technical, clinical, biological)  
+- Differences  
+- Impact of differences  
+- Justification of equivalence  
+
+---
+
+## Applicability Check
+
+- Population match  
+- Clinical setting match  
+- Use conditions match  
+- Device usage consistency  
+
+👉 If differences exist, assess impact
+
+---
+
+## Synthesis Framework
+
+- Summary of individual studies  
+- Weight of evidence  
+- Consistency of findings  
+- Identified uncertainties  
+- Overall interpretation  
+
+---
+
+## Claim Development Checklist
+
+- What is being claimed?  
+- What evidence supports it?  
+- What are the limitations?  
+- What qualifiers are needed?  
+- Is wording precise?  
+
+---
+
+## Traceability Structure
+
+For each claim, ensure:
+
+- Link to supporting evidence  
+- Link to evaluation steps  
+- Clear reasoning path  
+
+👉 This enables review and validation
+
+---
+
+## Final Note
+
+These tools are intended to support:
+
+👉 structured, transparent, and defensible clinical evaluation
+
+They should be adapted to:
+
+- device type  
+- regulatory context  
+- available evidence
+
+## Citation Approach in This Guide
+
+This guide uses citations selectively to support key concepts, not to exhaustively document every statement.
+
+Citations are included where they:
+
+- Anchor formal definitions (for example, clinical evidence, bias, or risk–benefit evaluation)
+- Reference established methodological frameworks (such as evidence grading or study appraisal)
+- Reflect regulatory expectations relevant to clinical evaluation
+
+The goal is to maintain a clear and readable narrative while ensuring that critical reasoning steps are grounded in recognized standards.
+
+This approach aligns with the purpose of the guide:
+
+**to support reproducible reasoning, not just reproducible results.**

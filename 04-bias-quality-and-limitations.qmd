@@ -1,0 +1,170 @@
+# Bias, Quality, and Limitations
+
+:::cdi-message
+- **ID:** CE-L04
+- **Type:** Lesson
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Understanding bias and evidence limitations
+:::
+
+## Framework Position
+
+This chapter deepens the **Evidence Review** stage by making one critical aspect explicit:
+
+👉 No study is perfect.
+
+All evidence carries:
+- bias  
+- uncertainty  
+- limitations  
+
+The goal is not to eliminate them, but to understand them.
+
+---
+
+## From appraisal to critical interpretation
+
+In the previous chapter, we asked:
+
+👉 *How reliable is this study?*
+
+Now we ask:
+
+👉 *What could be misleading about this study?*
+
+This is where evaluation becomes truly analytical.
+
+---
+
+## What is bias?
+
+Bias is a **systematic error** that distorts results. [@hernan_robins_2020]
+
+It can:
+- exaggerate effects  
+- hide true effects  
+- create false conclusions  
+
+Bias is not random noise.
+
+It consistently pushes results in a direction.
+
+---
+
+## Common types of bias
+
+### Selection bias
+- non-representative participants  
+- inappropriate inclusion/exclusion  
+
+👉 affects generalizability
+
+---
+
+### Measurement bias
+- inaccurate measurements  
+- inconsistent methods  
+
+👉 affects outcome validity
+
+---
+
+### Confounding
+- external factors influence results  
+
+Example:
+- age, comorbidities, baseline differences  
+
+👉 affects causal interpretation
+
+---
+
+### Reporting bias
+- selective reporting of outcomes  
+- omission of negative results  
+
+👉 affects completeness of evidence
+
+---
+
+### Attrition bias
+- loss of participants  
+- incomplete follow-up  
+
+👉 affects reliability of conclusions
+
+---
+
+## What are limitations?
+
+Limitations are constraints of the study.
+
+They may include:
+- small sample size  
+- short follow-up duration  
+- restricted populations  
+- limited endpoints  
+
+Limitations do not invalidate a study.
+
+But they restrict what can be concluded.
+
+---
+
+## Quality vs bias
+
+These are related but different:
+
+- **Quality** → how well the study was conducted  
+- **Bias** → how results may be systematically distorted  
+
+A study can be:
+- high quality but still biased  
+- low quality with unclear bias  
+
+---
+
+## Why this matters
+
+Without explicitly identifying bias and limitations:
+
+- weak evidence may appear strong  
+- inappropriate conclusions may be drawn  
+- clinical claims may become indefensible  
+
+---
+
+## Structured approach
+
+For each study, ask:
+
+1. What biases may be present?  
+2. How large could their impact be?  
+3. What are the key limitations?  
+4. How do these affect interpretation?  
+
+---
+
+## From bias to confidence
+
+Bias and limitations directly influence:
+
+👉 how much weight a study should carry
+
+Not all evidence is equal.
+
+---
+
+## Key takeaway
+
+Understanding bias and limitations is essential for:
+
+- accurate interpretation  
+- balanced evaluation  
+- defensible clinical claims  
+
+---
+
+## What comes next
+
+The next chapter focuses on **risk-benefit evaluation**, where evidence is translated into clinical value.

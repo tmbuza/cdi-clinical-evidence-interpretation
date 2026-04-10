@@ -1,0 +1,95 @@
+# Environment Setup
+
+:::cdi-message
+- **ID:** CE-L01
+- **Type:** Setup
+- **Audience:** All readers
+- **Theme:** Working with the guide
+:::
+
+This guide is primarily conceptual and interpretive.
+
+It is designed to support structured reasoning about clinical evidence for medical devices. It does not require programming knowledge, statistical software, or specialized technical tools to follow the core content.
+
+However, the guide is built as a reproducible Quarto book. This allows the structure, chapters, and updates to be maintained clearly and consistently over time.
+
+## Why this chapter is brief
+
+Unlike technical guides that require extensive setup, this guide focuses on interpretation rather than computation.
+
+The goal is not to configure a complex environment, but to provide a clear way to navigate and use the material effectively.
+
+## What this guide requires
+
+To read and benefit from this guide, you only need:
+
+- A web browser (for the rendered version)
+- Basic familiarity with clinical evaluation concepts
+
+No coding or software installation is required.
+
+## Reproducible structure (optional)
+
+For readers who want to work with the source files or adapt the guide, the project is organized as a Quarto book.
+
+A typical structure looks like:
+
+```
+project/
+├── _quarto.yml
+├── index.qmd
+├── 00-preface.qmd
+├── 01-environment-setup.qmd
+├── 02-...
+├── assets/
+│   └── images/
+├── library/
+│   └── references.bib
+```
+
+This structure ensures that:  
+- content is organized clearly
+- updates remain consistent
+- the guide can be extended or customized if needed
+
+## Rendering the guide (optional)
+
+If you want to build the guide locally, install Quarto:
+
+https://quarto.org
+
+Then run:
+
+```bash
+quarto render
+```
+
+This will generate the output in the `docs/` folder.
+
+## Optional tools
+
+For those who want a fully reproducible workflow:
+
+- A text editor (VS Code or similar)
+- Git for version control
+- GitHub for publishing
+
+These are not required to use the guide, but can be useful for maintaining or extending it.
+
+## How to use this guide effectively
+
+This guide is structured as a reasoning progression.
+
+You can:
+
+- Read it sequentially to follow the full clinical evaluation logic
+- Focus on specific sections depending on your work
+- Return to the framework in the Preface to reconnect individual chapters to the overall reasoning structure
+
+The emphasis throughout is on interpretation:
+
+- understanding what evidence shows  
+- identifying its limitations  
+- and determining what can be concluded responsibly  
+
+The goal is not just to review data, but to support defensible clinical claims.

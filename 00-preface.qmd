@@ -1,0 +1,194 @@
+# Preface
+
+:::cdi-message
+- **ID:** CE-L00
+- **Type:** Preface
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** From results to defensible clinical claims
+:::
+
+In clinical evaluation, results are often presented as if they are conclusions.
+
+Statistically significant findings.  
+Observed improvements.  
+Reported outcomes.  
+
+These elements matter, but results alone do not establish clinical safety, clinical performance, or clinical benefit.
+
+A medical device may show favorable findings in one or more studies and still fall short of supporting a defensible claim if the underlying evidence is not appraised in relation to intended purpose, intended patient population, clinical context, known limitations, and benefit-risk considerations.
+
+This guide focuses on that interpretive step.
+
+Its purpose is not simply to summarize evidence, but to show how evidence is examined, weighed, and translated into claims that can be justified within clinical evaluation.
+
+## Why interpretation matters
+
+Clinical evaluation is not only a documentation exercise.
+
+It is a structured reasoning process.
+
+That process asks questions such as:
+
+- Does the evidence adequately address the device's intended purpose?
+- Are the studies methodologically suitable for the claim under consideration?
+- Are there sources of bias, confounding, or uncertainty that reduce confidence in the conclusions?
+- Is the observed effect clinically meaningful for the target population and use environment?
+- Do the findings support a favorable benefit-risk determination in the relevant clinical context?
+- Where equivalence is invoked, is the justification scientifically and clinically credible?
+
+These are not merely reporting questions.
+
+They are clinical evidence interpretation questions.
+
+They are also the questions that often determine whether a conclusion remains descriptive, or rises to the level of a defensible clinical claim.
+
+## The reasoning structure used in this guide
+
+The cover presents the framework at a high level.
+
+The diagram below expands that framework into a reproducible reasoning process for clinical evaluation.
+
+```{mermaid}
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "fontFamily": "Arial, sans-serif",
+    "fontSize": "18px",
+    "primaryTextColor": "#0f172a",
+    "lineColor": "#94a3b8",
+    "tertiaryColor": "#ffffff",
+    "background": "#ffffff"
+  }
+}}%%
+flowchart TB
+
+  T["CDI Clinical Evidence Framework"]
+
+  A["Evidence Review<br/><span style='font-size:15px'>Study Evaluation &amp; Bias Assessment</span>"]
+  B["Risk-Benefit<br/>Evaluation<br/><span style='font-size:15px'>Assess Safety vs Benefit</span>"]
+  C["Clinical Context<br/>&amp; Intended Use<br/><span style='font-size:15px'>Define Population and Use Case</span>"]
+  D["Equivalence<br/>&amp; Justification<br/><span style='font-size:15px'>Compare with Existing Devices</span>"]
+  E["Synthesis<br/>&amp; Interpretation<br/><span style='font-size:15px'>Integrate Evidence into Clinical Meaning</span>"]
+
+  F["Demonstrate<br/><b>Clinically Meaningful</b><br/>Benefit"]
+  G["Defensible Clinical Claims<br/><span style='font-size:15px'>Valid | Relevant | Justifiable | Reproducible</span>"]
+
+  T --> A
+
+  A --> B
+  B --> C
+  C --> D
+  D --> E
+  E --> A
+
+  A --- F
+  B --- F
+  C --- F
+  D --- F
+  E --- F
+
+  F --> G
+
+  classDef title fill:#ffffff,stroke:#ffffff,color:#64748b,font-size:16px,font-weight:bold;
+  classDef blue fill:#0b63b6,stroke:#0b63b6,color:#ffffff,font-weight:bold;
+  classDef orange fill:#f59e0b,stroke:#f59e0b,color:#ffffff,font-weight:bold;
+  classDef green fill:#84cc16,stroke:#84cc16,color:#ffffff,font-weight:bold;
+  classDef teal fill:#14b8a6,stroke:#14b8a6,color:#ffffff,font-weight:bold;
+  classDef center fill:#ffffff,stroke:#cbd5e1,color:#111827,font-size:22px,font-weight:bold;
+  classDef outcome fill:#eaf2ff,stroke:#bfd2f6,color:#123b72,font-size:20px,font-weight:bold;
+
+  class T title;
+  class A blue;
+  class B orange;
+  class C green;
+  class D green;
+  class E teal;
+  class F center;
+  class G outcome;
+
+  linkStyle 1 stroke:#94a3b8,stroke-width:2px;
+  linkStyle 2 stroke:#94a3b8,stroke-width:2px;
+  linkStyle 3 stroke:#94a3b8,stroke-width:2px;
+  linkStyle 4 stroke:#94a3b8,stroke-width:2px;
+  linkStyle 5 stroke:#94a3b8,stroke-width:2px;
+  linkStyle 6 stroke:#cbd5e1,stroke-width:1.5px,stroke-dasharray: 3 3;
+  linkStyle 7 stroke:#cbd5e1,stroke-width:1.5px,stroke-dasharray: 3 3;
+  linkStyle 8 stroke:#cbd5e1,stroke-width:1.5px,stroke-dasharray: 3 3;
+  linkStyle 9 stroke:#cbd5e1,stroke-width:1.5px,stroke-dasharray: 3 3;
+  linkStyle 10 stroke:#cbd5e1,stroke-width:1.5px,stroke-dasharray: 3 3;
+  linkStyle 11 stroke:#93c5fd,stroke-width:3px;
+```
+
+This expanded view makes one principle explicit:
+
+**Defensible clinical claims should emerge from interpreted evidence, not from isolated results.**
+
+Each component of this framework is developed further in the chapters that follow.
+
+## Domain focus of this guide
+
+This guide is written for work involving clinical evidence for medical devices.
+
+Accordingly, the wording throughout the guide is aligned to the language commonly used in this domain:
+
+- **clinical evaluation** rather than generic evidence review
+- **clinical benefit**, **clinical performance**, and **clinical safety** rather than broad outcome language
+- **intended purpose** and **intended use** rather than general application
+- **benefit-risk** rather than benefit alone
+- **equivalence** only where it is specifically relevant and adequately justified
+- **totality of evidence** rather than single-study interpretation
+
+The guide does not replace applicable standards, guidance documents, or regulatory requirements.
+
+Instead, it strengthens the reasoning that sits underneath them.
+
+## What this guide is and is not
+
+This guide is not a regulatory checklist.
+
+It is not a template for copying stock clinical evaluation wording.
+
+It is not a shortcut to making stronger claims from weak evidence.
+
+This guide is a structured framework for interpreting clinical evidence with discipline.
+
+It is designed to help readers:
+
+- appraise whether evidence is fit for the claim being made
+- identify limitations that affect certainty and defensibility
+- connect study findings to intended use and clinical context
+- evaluate whether benefit-risk conclusions are adequately supported
+- translate evidence into language that is clinically and scientifically justified
+
+## What makes a clinical claim defensible
+
+Within this guide, a defensible clinical claim is one that is:
+
+- **Valid**: supported by evidence that directly addresses the question at hand
+- **Relevant**: aligned with the device, intended purpose, target population, and use conditions
+- **Justifiable**: based on explicit reasoning across evidence quality, clinical relevance, and benefit-risk
+- **Reproducible**: transparent enough that another qualified reviewer can follow how the conclusion was reached
+
+A defensible claim is therefore not just positive.
+
+It is traceable.  
+It is bounded.  
+It is clinically grounded.  
+
+## How to use this guide
+
+The chapters that follow move from core principles to applied reasoning.
+
+Early sections focus on evidence appraisal and interpretive foundations. Middle sections examine major pillars of clinical evaluation, including risk-benefit, intended use, clinical context, and equivalence. Later sections focus on synthesis, claim construction, and the distinction between reported findings and supportable conclusions.
+
+The guide can be read sequentially, but it can also be used selectively when a specific component of clinical evaluation needs closer scrutiny.
+
+## CDI perspective
+
+Within Complex Data Insights, evidence is not treated as a collection of disconnected results.
+
+It is treated as structured input for disciplined interpretation.
+
+The goal is not simply to state what studies reported.
+
+The goal is to determine what can be concluded responsibly, what can be claimed defensibly, and where the evidence remains limited.

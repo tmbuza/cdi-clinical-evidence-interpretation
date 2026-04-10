@@ -1,0 +1,114 @@
+# Evidence Review and Study Appraisal
+
+:::cdi-message
+- **ID:** CE-L03
+- **Type:** Lesson
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Appraising study quality and reliability
+:::
+
+## Framework Position
+
+This chapter corresponds to the **Evidence Review** stage.
+
+It focuses on evaluating how reliable each study is.
+
+---
+
+## From relevance to reliability
+
+If the previous chapter established:
+
+👉 *Is the evidence appropriate?*
+
+This chapter asks:
+
+👉 *How much confidence can we place in it?*
+
+---
+
+## What is study appraisal?
+
+Study appraisal evaluates: (see standard approaches in systematic review methods [@higgins_cochrane_2022]).
+
+- design  
+- conduct  
+- analysis  
+- reporting  
+
+The goal is to determine the strength of evidence.
+
+---
+
+## Core dimensions
+
+### Study design
+- randomized vs observational  
+- controlled vs uncontrolled  
+
+### Population
+- matches intended use  
+- representative of real-world patients  
+
+### Endpoints
+- clinically meaningful  
+- clearly defined  
+
+### Sample size
+- adequate for conclusions  
+- not underpowered  
+
+### Data completeness
+- missing data  
+- follow-up  
+
+### Analysis
+- appropriate statistical methods  
+- valid comparisons  
+
+---
+
+## Internal vs external validity
+
+**Internal validity**
+- are results trustworthy within the study?
+
+**External validity**
+- are results applicable in practice?
+
+Both are required.
+
+---
+
+## Common pitfalls
+
+- assuming publication = quality  
+- focusing only on statistical significance  
+- ignoring limitations  
+- combining heterogeneous studies  
+
+---
+
+## Structured appraisal
+
+A simple approach:
+
+1. What was done?  
+2. Who was studied?  
+3. What was measured?  
+4. How was it analyzed?  
+5. What are the limitations?  
+
+---
+
+## Key takeaway
+
+Study appraisal determines how much weight each study carries.
+
+Without it, clinical evaluation becomes descriptive rather than analytical.
+
+---
+
+## What comes next
+
+The next chapter examines bias, quality, and limitations in more depth.

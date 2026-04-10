@@ -1,0 +1,138 @@
+# Summary and Next Steps
+
+:::cdi-message
+- **ID:** CE-L12
+- **Type:** Lesson
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Consolidating the framework and moving to practice
+:::
+
+## Bringing the framework together
+
+This guide introduced a structured way to move from:
+
+👉 evidence → evaluation → interpretation → claims
+
+At its core, the framework ensures that:
+
+👉 clinical claims are derived from **reasoned interpretation**, not isolated results
+
+---
+
+## The complete reasoning chain
+
+The full process can be summarized as:
+
+1. Define evidence and intended use  
+2. Appraise study quality  
+3. Identify bias and limitations  
+4. Evaluate risk versus benefit  
+5. Establish equivalence and justification  
+6. Confirm clinical context and applicability  
+7. Synthesize and interpret evidence  
+8. Translate findings into defensible claims  
+9. Communicate claims clearly and precisely  
+
+Each step builds on the previous one.
+
+Skipping steps weakens the entire evaluation.
+
+---
+
+## What this changes in practice
+
+This framework shifts clinical evaluation from:
+
+❌ descriptive reporting  
+→ listing studies and results  
+
+to:
+
+✅ analytical reasoning  
+→ connecting evidence to justified conclusions  
+
+---
+
+## From information to decisions
+
+Clinical evaluation is not an academic exercise.
+
+It supports:
+
+- regulatory submissions  
+- clinical decision-making  
+- product positioning  
+- patient safety  
+
+👉 The outcome is not just understanding  
+👉 It is **defensible decision-making**
+
+---
+
+## Applying the framework
+
+In practice, applying this framework means:
+
+- asking structured questions at each step  
+- making reasoning explicit  
+- documenting decisions clearly  
+- aligning claims with evidence strength  
+
+It also means:
+
+👉 being comfortable with uncertainty  
+👉 avoiding overstatement  
+
+---
+
+## Continuous improvement
+
+Clinical evaluation is not static.
+
+It evolves as:
+
+- new evidence becomes available  
+- post-market data emerges  
+- clinical use expands  
+
+The framework should be applied iteratively.
+
+---
+
+## Final principle
+
+Across all chapters, one principle remains central:
+
+👉 Defensible clinical claims require structured reasoning
+
+Not just data.  
+Not just results.  
+But **interpreted, justified, and contextualized evidence**.
+
+---
+
+## What you can do next
+
+To apply this guide:
+
+1. Review an existing clinical evaluation using this framework  
+2. Identify gaps in reasoning  
+3. Reconstruct the evaluation step by step  
+4. Strengthen claims through explicit justification  
+
+---
+
+## Closing note
+
+The goal of this guide is not to provide templates.
+
+It is to provide:
+
+👉 a way of thinking
+
+A way to move from:
+
+- data  
+- to understanding  
+- to defensible clinical claims  
+

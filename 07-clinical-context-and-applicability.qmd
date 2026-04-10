@@ -1,0 +1,151 @@
+# Clinical Context and Applicability
+
+:::cdi-message
+- **ID:** CE-L07
+- **Type:** Lesson
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Applying evidence in real-world clinical context
+:::
+
+## Framework Position
+
+This chapter corresponds to the **Clinical Context & Applicability** stage.
+
+After:  
+- evaluating evidence  
+- understanding bias and limitations  
+- assessing risk-benefit  
+- establishing equivalence  
+
+we now ask:
+
+👉 *Does this evidence hold in the real clinical setting where the device will be used?*
+
+---
+
+## What is clinical context?
+
+Clinical context defines:  
+
+- the patient population  
+- the clinical setting  
+- the conditions of use  
+- the healthcare environment  
+
+It answers:
+
+👉 *Where and how will this device actually be used?*
+
+---
+
+## What is applicability?
+
+Applicability refers to:  
+
+👉 how well the available evidence translates to real-world use
+
+Even strong evidence may not be applicable if:  
+
+- populations differ  
+- settings differ  
+- use conditions differ  
+
+---
+
+## Why this matters
+
+A common mistake in clinical evaluation is:
+
+- assuming that valid evidence is automatically applicable  
+
+This is not always true.
+
+Evidence must be:
+
+👉 both valid **and** applicable
+
+---
+
+## Key dimensions of applicability
+
+### Population
+
+- Does the study population match the intended users?  
+- Are demographics, disease state, and severity comparable?  
+
+---
+
+### Setting
+
+- Was the study conducted in a similar clinical environment?  
+- Hospital vs outpatient vs home use  
+
+---
+
+### Use conditions
+
+- Were conditions controlled or real-world?  
+- Were users trained similarly?  
+
+---
+
+### Device use
+
+- Was the device used as intended?  
+- Were protocols consistent with actual use?  
+
+---
+
+## Contextual differences
+
+Even small differences can matter:  
+
+- specialist vs generalist use  
+- high-resource vs low-resource settings  
+- controlled trial vs routine practice  
+
+👉 These differences affect outcomes
+
+---
+
+## Common pitfalls
+
+- ignoring differences between study and real-world use  
+- overgeneralizing findings  
+- assuming applicability without justification  
+- failing to define intended clinical context clearly  
+
+---
+
+## Structured approach
+
+1. What is the intended clinical context?  
+2. How does the study context compare?  
+3. What differences exist?  
+4. Do these differences affect outcomes?  
+5. Can evidence still be applied?  
+
+---
+
+## From evidence to real-world use
+
+Applicability ensures that:
+
+👉 evidence supports actual clinical performance, not just study results
+
+---
+
+## Key takeaway
+
+Evidence must be interpreted within the **clinical context of use**.
+
+Without this step:
+
+- claims may be valid in theory  
+- but fail in practice  
+
+---
+
+## What comes next
+
+The next chapter focuses on **synthesis and interpretation**, where all evidence is integrated into a coherent clinical understanding.

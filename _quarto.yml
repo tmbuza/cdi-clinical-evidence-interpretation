@@ -1,0 +1,58 @@
+project:
+  type: book
+  output-dir: docs
+
+bibliography: library/references.bib
+link-citations: true
+date: last-modified
+date-format: "MMM YYYY"
+
+book:
+  title: "Clinical Evidence Interpretation for Medical Devices"
+  subtitle: "From Results to Defensible Clinical Claims"
+  author: "Teresia Mrema Buza | Complex Data Insights"
+
+  chapters:
+    - index.qmd
+
+    - part: "Foundations"
+      chapters:
+        - 00-preface.qmd
+        - 01-environment-setup.qmd
+        - 02-clinical-evidence-and-intended-use.qmd
+
+    - part: "Core Evaluation Reasoning"
+      chapters:
+        - 03-evidence-review-and-study-appraisal.qmd
+        - 04-bias-quality-and-limitations.qmd
+        - 05-risk-benefit-evaluation.qmd
+        - 06-equivalence-and-justification.qmd
+        - 07-clinical-context-and-applicability.qmd
+
+    - part: "From Results to Claims"
+      chapters:
+        - 08-synthesis-and-interpretation.qmd
+        - 09-from-results-to-defensible-claims.qmd
+        - 10-writing-clear-justifiable-claims.qmd
+
+    - part: "Practice and Closure"
+      chapters:
+        - 11-common-failure-points.qmd
+        - 12-summary-and-next-steps.qmd
+
+    - part: "Reference"
+      chapters:
+        - 999-appendix.qmd
+        - 999-references.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    code-fold: true
+    css: assets/css/cdi.css
+
+execute:
+  freeze: auto

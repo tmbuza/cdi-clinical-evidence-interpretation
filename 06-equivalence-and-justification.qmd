@@ -1,0 +1,156 @@
+# Equivalence and Justification
+
+:::cdi-message
+- **ID:** CE-L06
+- **Type:** Lesson
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Establishing equivalence and justifying claims
+:::
+
+## Framework Position
+
+This chapter corresponds to the **Equivalence & Justification** stage of the framework.
+
+After establishing:
+- what evidence exists (Chapter 02)  
+- how reliable it is (Chapter 03)  
+- its limitations (Chapter 04)  
+- and how benefits compare to risks (Chapter 05)  
+
+we now ask:
+
+👉 *Can this evidence be used to justify claims for this device?*
+
+---
+
+## What is equivalence?
+
+Equivalence refers to demonstrating that a device is sufficiently similar to another device (or evidence source) such that: [@meddev_2_7_1_rev4]
+
+👉 evidence from one can support conclusions about the other
+
+This is commonly used when:
+- direct clinical data is limited  
+- existing evidence is leveraged  
+
+---
+
+## Types of equivalence
+
+### Clinical equivalence
+- similar clinical effect  
+- comparable outcomes  
+
+### Technical equivalence
+- similar design, specifications, performance  
+
+### Biological equivalence
+- similar interaction with biological systems  
+
+All three dimensions may be required depending on context.
+
+---
+
+## Why equivalence matters
+
+Equivalence allows:
+
+- use of existing clinical data  
+- reduction in need for new studies  
+- support for safety and performance claims  
+
+But it must be:
+
+👉 justified, not assumed
+
+---
+
+## What is justification?
+
+Justification is the structured reasoning that explains:
+
+👉 why the available evidence supports the claims being made
+
+This includes:
+
+- linking evidence to the device  
+- explaining similarities and differences  
+- addressing gaps and uncertainties  
+
+---
+
+## Evidence bridging
+
+A common use case:
+
+👉 bridging evidence from:
+- similar devices  
+- previous generations  
+- related technologies  
+
+Key requirement:
+
+- differences must not affect clinical performance  
+
+---
+
+## When equivalence fails
+
+Equivalence is not valid when:
+
+- differences are clinically significant  
+- intended use differs  
+- populations are not comparable  
+- performance characteristics diverge  
+
+In such cases:
+
+👉 new clinical evidence may be required
+
+---
+
+## Common pitfalls
+
+- assuming similarity without analysis  
+- ignoring small but important differences  
+- overstating equivalence  
+- weak justification of evidence transfer  
+
+---
+
+## Structured approach
+
+1. What device or evidence is being compared?  
+2. In what ways are they similar?  
+3. In what ways are they different?  
+4. Do differences affect clinical outcomes?  
+5. Is the justification scientifically and clinically sound?  
+
+---
+
+## From equivalence to claims
+
+Equivalence and justification enable:
+
+👉 extension of evidence into defensible claims
+
+Without proper justification:
+
+- claims become weak  
+- regulatory acceptance becomes uncertain  
+
+---
+
+## Key takeaway
+
+Equivalence is not about convenience.
+
+It is about:
+
+👉 scientifically justified comparison that supports clinical claims
+
+---
+
+## What comes next
+
+The next chapter focuses on **clinical context and applicability**, ensuring that evidence holds within real-world use.

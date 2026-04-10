@@ -1,0 +1,167 @@
+# Writing Clear and Justifiable Claims
+
+:::cdi-message
+- **ID:** CE-L10
+- **Type:** Lesson
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Translating reasoning into precise clinical language
+:::
+
+## Framework Position
+
+This chapter follows **From Results to Defensible Claims**.
+
+Now we ask:
+
+👉 *How do we express those claims clearly, accurately, and defensibly?*
+
+---
+
+## Why wording matters
+
+Even when reasoning is correct:  
+
+- unclear wording can weaken a claim  
+- ambiguous language can introduce risk  
+- overstatement can undermine credibility  
+
+👉 A defensible claim must be **clearly written**
+
+---
+
+## Characteristics of strong claims
+
+A well-written clinical claim is:  
+
+- **Specific** → clearly states what is being claimed  
+- **Accurate** → reflects the actual evidence  
+- **Proportionate** → matches strength of evidence  
+- **Transparent** → does not hide limitations  
+
+Clear claims should reflect both the strength and limitations of the evidence [@guyatt_grade_2008].
+
+---
+
+## Avoiding ambiguity
+
+Avoid vague phrases such as:  
+
+- “improves outcomes”  
+- “effective”  
+- “safe”  
+
+Instead, specify:  
+
+- what outcome  
+- how much improvement  
+- under what conditions  
+
+---
+
+## Aligning with intended use
+
+Claims must explicitly reflect:  
+
+- intended population  
+- intended purpose  
+- conditions of use  
+
+A claim that exceeds intended use becomes indefensible.
+
+---
+
+## Qualifying claims
+
+Strong claims often include qualifiers:  
+
+- “in the studied population”  
+- “under specified conditions”  
+- “based on available evidence”  
+
+👉 Qualification is not weakness  
+👉 It is **precision**
+
+---
+
+## Matching evidence strength
+
+High-quality, consistent evidence:  
+→ allows stronger claims  
+
+Limited or uncertain evidence:  
+→ requires cautious wording  
+
+👉 Language must reflect certainty level
+
+---
+
+## Examples
+
+### Weak claim
+“The device improves patient outcomes.”
+
+### Improved claim
+“The device demonstrated a reduction in symptom severity in the studied population under controlled conditions.”
+
+---
+
+## Common pitfalls
+
+- overgeneralization  
+- omission of context  
+- overstating significance  
+- lack of specificity  
+- disconnect from evidence  
+
+---
+
+## Structured approach
+
+1. What exactly is being claimed?  
+2. What evidence supports it?  
+3. What are the limitations?  
+4. What qualifiers are needed?  
+5. Is the wording precise and clear?  
+
+---
+
+## Consistency across documentation
+
+Claims should be consistent across:
+
+- clinical evaluation reports  
+- instructions for use  
+- marketing materials  
+
+Inconsistency creates risk.
+
+---
+
+## Traceability in wording
+
+Each claim should:
+
+👉 map directly to evidence and reasoning
+
+This ensures:  
+
+- transparency  
+- reviewability  
+- regulatory defensibility  
+
+---
+
+## Key takeaway
+
+Clear writing is part of clinical evaluation.
+
+A defensible claim must be:
+
+👉 scientifically justified  
+👉 and precisely communicated  
+
+---
+
+## What comes next
+
+The next chapter examines **common failure points**, highlighting where clinical evaluations often break down.

@@ -1,0 +1,128 @@
+# From Results to Defensible Claims
+
+:::cdi-message
+- **ID:** CE-L09
+- **Type:** Lesson
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Translating interpretation into defensible clinical claims
+:::
+
+## Framework Position
+
+This chapter corresponds to the transition from **Synthesis & Interpretation** to **Defensible Clinical Claims**.
+
+After integrating evidence, we now ask:
+
+👉 *What claims can we responsibly maske based on this evidence?*
+
+---
+
+## From results to claims
+
+Results alone do not justify claims.
+
+A valid claim requires:
+
+- relevant evidence  
+- reliable studies  
+- understood limitations  
+- acceptable risk-benefit  
+- appropriate clinical context  
+
+👉 Claims emerge from the full reasoning chain
+
+---
+
+## What makes a claim defensible?
+
+A defensible claim is:
+
+- **Valid** → supported by evidence  
+- **Relevant** → aligned with intended use  
+- **Justifiable** → reasoning is clear and structured  
+- **Reproducible** → conclusions can be followed and verified  
+
+---
+
+## Overclaiming vs justified claims
+
+### Overclaiming
+- extends beyond evidence  
+- ignores limitations  
+- assumes applicability  
+
+### Justified claims
+- stay within evidence boundaries  
+- acknowledge uncertainty  
+- are proportionate to evidence strength  
+
+---
+
+## Role of uncertainty
+
+All claims carry uncertainty.
+
+Defensible claims:  
+
+- recognize uncertainty  
+- do not overstate conclusions  
+- remain appropriately qualified  
+
+---
+
+## Evidence strength and claim strength
+
+Stronger evidence → stronger claims  
+Weaker evidence → more cautious claims  
+
+👉 Claim strength must match evidence strength
+
+---
+
+## Common pitfalls
+
+- making claims directly from single studies  
+- ignoring bias and limitations  
+- overstating statistical findings  
+- failing to align with intended use  
+- vague or ambiguous wording  
+
+---
+
+## Structured approach
+
+1. What does the evidence support?  
+2. What are the limitations?  
+3. What level of confidence is appropriate?  
+4. What claim can be justified?  
+5. Is the claim clearly supported by reasoning?  
+
+---
+
+## Traceability
+
+A defensible claim should allow:
+
+👉 traceability back to evidence
+
+This means:
+
+- each claim can be linked to data  
+- reasoning steps are transparent  
+- conclusions can be reviewed  
+
+---
+
+## Key takeaway
+
+Clinical claims are not derived from results alone.
+
+They are constructed through:
+
+👉 structured, transparent, and justified interpretation of evidence
+
+---
+
+## What comes next
+
+The next chapter focuses on **writing clear and justifiable claims**, translating reasoning into precise language.

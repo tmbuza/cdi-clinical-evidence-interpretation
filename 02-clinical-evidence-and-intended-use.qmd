@@ -1,0 +1,103 @@
+# Clinical Evidence and Intended Use
+
+:::cdi-message
+- **ID:** CE-L02
+- **Type:** Lesson
+- **Audience:** Clinical, Regulatory, and Evidence Professionals
+- **Theme:** Defining evidence and intended use
+:::
+
+## Framework Position
+
+This chapter establishes the foundation of clinical evaluation.
+
+Before evidence is appraised, it must be clearly defined in relation to:
+- the medical device
+- its intended purpose
+- its intended use
+
+---
+
+## What is clinical evidence?
+
+Clinical evidence refers to data that supports the safety, performance, and clinical benefit of a medical device. [@eu_mdr_2017_745].
+
+Sources include:
+- clinical investigations  
+- published literature  
+- post-market surveillance data  
+- real-world evidence  
+
+The key question is not:
+*Do we have evidence?*
+
+But:
+👉 *Is this evidence appropriate for this device and its intended use?*
+
+---
+
+## Intended purpose vs intended use
+
+### Intended purpose
+Describes:
+- what the device is designed to do  
+- its medical objective  
+
+### Intended use
+Describes:
+- who the device is used on  
+- under what conditions  
+- in what setting  
+
+This distinction is critical.
+
+Evidence must align with both.
+
+---
+
+## Why intended use matters
+
+Intended use determines:
+
+- relevant population  
+- appropriate endpoints  
+- acceptable risk profile  
+- clinical context  
+
+If evidence does not match intended use, it weakens the evaluation.
+
+---
+
+## Evidence–claim alignment
+
+A central principle:
+
+👉 Evidence must be **fit for purpose**
+
+This means:
+- aligned with the claim being made  
+- relevant to the clinical context  
+- sufficient in scope and quality  
+
+---
+
+## Common issues
+
+- Using evidence from different populations  
+- Ignoring intended use conditions  
+- Overextending findings beyond study scope  
+- Mixing endpoints that do not support the claim  
+
+---
+
+## Key takeaway
+
+Clinical evidence is only meaningful when interpreted in relation to intended use.
+
+This chapter defines the foundation on which all further evaluation is built.
+
+---
+
+## What comes next
+
+The next chapter examines how evidence is appraised at the study level.
