@@ -1,8 +1,8 @@
 {
-  "hash": "1d89789823dfcc128626cd62df606515",
+  "hash": "4fb0a4338ce2541cf93b04abcd33d675",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"\"\nengine: knitr\nformat:\n  html:\n    body-classes: front-page\n---\n\n# {-}\n\n\n<div style=\"text-align: center; margin-top: 1.5em;\">\n  <img src=\"assets/images/cover/clinical-evidence-cover.jpeg\" width=\"75%\" />\n</div>\n\n<div style=\"text-align: center; font-style: normal; margin-top: 1em;\">\n  Internal Playbook · Updated Apr 2026\n</div>\n\n",
+    "markdown": "---\ntitle: \"\"\nengine: knitr\nformat:\n  html:\n    body-classes: front-page\n---\n\n# {-}\n\n\n<div style=\"text-align: center; margin-top: 1.5em;\">\n  <img src=\"assets/images/cover/clinical-evidence-cover.png\" width=\"75%\" />\n</div>\n\n<div style=\"text-align: center; font-style: normal; margin-top: 1em;\">\n  Internal Playbook · Updated Apr 2026\n</div>\n\n",
     "supporting": [
       "index_files"
     ],

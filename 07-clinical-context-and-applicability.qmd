@@ -149,3 +149,5 @@ Without this step:
 ## What comes next
 
 The next chapter focuses on **synthesis and interpretation**, where all evidence is integrated into a coherent clinical understanding.
+
+The subsequent chapters move from integrating evidence into a coherent clinical understanding to translating that understanding into defensible clinical claims.
