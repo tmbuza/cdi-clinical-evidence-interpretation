@@ -12,9 +12,10 @@
 This chapter establishes the foundation of clinical evaluation.
 
 Before evidence is appraised, it must be clearly defined in relation to:
-- the medical device
-- its intended purpose
-- its intended use
+
+- the medical device  
+- its intended purpose  
+- its intended use  
 
 ---
 
@@ -23,15 +24,17 @@ Before evidence is appraised, it must be clearly defined in relation to:
 Clinical evidence refers to data that supports the safety, performance, and clinical benefit of a medical device. [@eu_mdr_2017_745].
 
 Sources include:
+
 - clinical investigations  
 - published literature  
 - post-market surveillance data  
 - real-world evidence  
 
-The key question is not:
+The key question is not:  
 *Do we have evidence?*
 
-But:
+But:  
+
 👉 *Is this evidence appropriate for this device and its intended use?*
 
 ---
@@ -39,12 +42,16 @@ But:
 ## Intended purpose vs intended use
 
 ### Intended purpose
+
 Describes:
+
 - what the device is designed to do  
 - its medical objective  
 
 ### Intended use
+
 Describes:
+
 - who the device is used on  
 - under what conditions  
 - in what setting  
@@ -72,9 +79,10 @@ If evidence does not match intended use, it weakens the evaluation.
 
 A central principle:
 
-👉 Evidence must be **fit for purpose**
+👉 Evidence must be **fit for purpose and aligned with intended use**
 
 This means:
+
 - aligned with the claim being made  
 - relevant to the clinical context  
 - sufficient in scope and quality  
@@ -87,6 +95,95 @@ This means:
 - Ignoring intended use conditions  
 - Overextending findings beyond study scope  
 - Mixing endpoints that do not support the claim  
+
+---
+
+## A Simple Example: From Data to Clinical Evidence
+
+To make these concepts concrete, consider the following example.
+
+### Example: Wearable Blood Pressure Monitor
+
+To understand what clinical evidence means in practice, consider a simple example.
+
+A company develops a **wearable blood pressure monitor** intended for continuous, non-invasive measurement in adults with hypertension.
+
+---
+
+### Intended Use
+
+The device is intended to:
+
+- measure blood pressure continuously throughout the day  
+- support monitoring of hypertension trends  
+- assist clinicians in patient management  
+- be used in ambulatory, real-world conditions  
+
+---
+
+### Clinical Question
+
+Can the wearable device provide measurements that are sufficiently accurate and useful compared to a standard clinical blood pressure cuff?
+
+---
+
+### Data Collected
+
+To answer this, data are collected from:
+
+- patients using the wearable device  
+- the same patients measured using a validated cuff device (reference standard)  
+- multiple measurements across different conditions (rest, movement)  
+
+---
+
+### Observed Results
+
+Initial findings show:
+
+- measurements from the wearable device closely follow the reference device  
+- small differences are observed (within a few mmHg in most cases)  
+- accuracy decreases slightly during movement  
+
+---
+
+### From Results to Evidence
+
+At this point, we do not yet make a claim.
+
+Instead, we ask:
+
+- Are the differences clinically acceptable?  
+- Is the performance consistent under intended conditions?  
+- Do the limitations affect how the device will be used?  
+
+This step — **interpreting results in context of intended use** — is what turns data into evidence.
+
+---
+
+### Clinical Evidence (Conceptual)
+
+From this evaluation, we may conclude:
+
+- the device performs comparably to the reference under typical conditions  
+- it provides additional value through continuous monitoring  
+- limitations (e.g., movement sensitivity) are understood and manageable  
+
+---
+
+### Defensible Claim (What we are working toward)
+
+> The device provides clinically acceptable blood pressure measurements for continuous monitoring under intended use conditions and supports improved management of hypertension.
+
+---
+
+:::cdi-message
+- **Key Insight:** Clinical evidence is not just about results. It is about whether those results are sufficient to support a clear and justified clinical claim.
+:::
+
+---
+
+This example illustrates how clinical evidence is always evaluated in relation to intended use.
 
 ---
 

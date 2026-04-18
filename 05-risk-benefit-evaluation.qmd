@@ -12,6 +12,7 @@
 This chapter corresponds to the **Risk–Benefit Evaluation** stage of the framework.
 
 After:
+
 - defining evidence (Chapter 02)  
 - appraising studies (Chapter 03)  
 - identifying bias and limitations (Chapter 04)  

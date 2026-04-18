@@ -168,7 +168,18 @@
     "href": "02-clinical-evidence-and-intended-use.html",
     "title": "Clinical Evidence and Intended Use",
     "section": "",
-    "text": "Framework Position\nThis chapter establishes the foundation of clinical evaluation.\nBefore evidence is appraised, it must be clearly defined in relation to: - the medical device - its intended purpose - its intended use",
+    "text": "Framework Position\nThis chapter establishes the foundation of clinical evaluation.\nBefore evidence is appraised, it must be clearly defined in relation to:",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Clinical Evidence and Intended Use</span>"
+    ]
+  },
+  {
+    "objectID": "02-clinical-evidence-and-intended-use.html#framework-position",
+    "href": "02-clinical-evidence-and-intended-use.html#framework-position",
+    "title": "Clinical Evidence and Intended Use",
+    "section": "",
+    "text": "the medical device\n\nits intended purpose\n\nits intended use",
     "crumbs": [
       "Foundations",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Clinical Evidence and Intended Use</span>"
@@ -179,7 +190,7 @@
     "href": "02-clinical-evidence-and-intended-use.html#what-is-clinical-evidence",
     "title": "Clinical Evidence and Intended Use",
     "section": "What is clinical evidence?",
-    "text": "What is clinical evidence?\nClinical evidence refers to data that supports the safety, performance, and clinical benefit of a medical device. (“Regulation (EU) 2017/745 on Medical Devices” 2017).\nSources include: - clinical investigations\n- published literature\n- post-market surveillance data\n- real-world evidence\nThe key question is not: Do we have evidence?\nBut: 👉 Is this evidence appropriate for this device and its intended use?",
+    "text": "What is clinical evidence?\nClinical evidence refers to data that supports the safety, performance, and clinical benefit of a medical device. (“Regulation (EU) 2017/745 on Medical Devices” 2017).\nSources include:\n\nclinical investigations\n\npublished literature\n\npost-market surveillance data\n\nreal-world evidence\n\nThe key question is not:\nDo we have evidence?\nBut:\n👉 Is this evidence appropriate for this device and its intended use?",
     "crumbs": [
       "Foundations",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Clinical Evidence and Intended Use</span>"
@@ -190,7 +201,7 @@
     "href": "02-clinical-evidence-and-intended-use.html#intended-purpose-vs-intended-use",
     "title": "Clinical Evidence and Intended Use",
     "section": "Intended purpose vs intended use",
-    "text": "Intended purpose vs intended use\n\nIntended purpose\nDescribes: - what the device is designed to do\n- its medical objective\n\n\nIntended use\nDescribes: - who the device is used on\n- under what conditions\n- in what setting\nThis distinction is critical.\nEvidence must align with both.",
+    "text": "Intended purpose vs intended use\n\nIntended purpose\nDescribes:\n\nwhat the device is designed to do\n\nits medical objective\n\n\n\nIntended use\nDescribes:\n\nwho the device is used on\n\nunder what conditions\n\nin what setting\n\nThis distinction is critical.\nEvidence must align with both.",
     "crumbs": [
       "Foundations",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Clinical Evidence and Intended Use</span>"
@@ -212,7 +223,7 @@
     "href": "02-clinical-evidence-and-intended-use.html#evidenceclaim-alignment",
     "title": "Clinical Evidence and Intended Use",
     "section": "Evidence–claim alignment",
-    "text": "Evidence–claim alignment\nA central principle:\n👉 Evidence must be fit for purpose\nThis means: - aligned with the claim being made\n- relevant to the clinical context\n- sufficient in scope and quality",
+    "text": "Evidence–claim alignment\nA central principle:\n👉 Evidence must be fit for purpose and aligned with intended use\nThis means:\n\naligned with the claim being made\n\nrelevant to the clinical context\n\nsufficient in scope and quality",
     "crumbs": [
       "Foundations",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Clinical Evidence and Intended Use</span>"
@@ -224,6 +235,17 @@
     "title": "Clinical Evidence and Intended Use",
     "section": "Common issues",
     "text": "Common issues\n\nUsing evidence from different populations\n\nIgnoring intended use conditions\n\nOverextending findings beyond study scope\n\nMixing endpoints that do not support the claim",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Clinical Evidence and Intended Use</span>"
+    ]
+  },
+  {
+    "objectID": "02-clinical-evidence-and-intended-use.html#a-simple-example-from-data-to-clinical-evidence",
+    "href": "02-clinical-evidence-and-intended-use.html#a-simple-example-from-data-to-clinical-evidence",
+    "title": "Clinical Evidence and Intended Use",
+    "section": "A Simple Example: From Data to Clinical Evidence",
+    "text": "A Simple Example: From Data to Clinical Evidence\nTo make these concepts concrete, consider the following example.\n\nExample: Wearable Blood Pressure Monitor\nTo understand what clinical evidence means in practice, consider a simple example.\nA company develops a wearable blood pressure monitor intended for continuous, non-invasive measurement in adults with hypertension.\n\n\n\nIntended Use\nThe device is intended to:\n\nmeasure blood pressure continuously throughout the day\n\nsupport monitoring of hypertension trends\n\nassist clinicians in patient management\n\nbe used in ambulatory, real-world conditions\n\n\n\n\nClinical Question\nCan the wearable device provide measurements that are sufficiently accurate and useful compared to a standard clinical blood pressure cuff?\n\n\n\nData Collected\nTo answer this, data are collected from:\n\npatients using the wearable device\n\nthe same patients measured using a validated cuff device (reference standard)\n\nmultiple measurements across different conditions (rest, movement)\n\n\n\n\nObserved Results\nInitial findings show:\n\nmeasurements from the wearable device closely follow the reference device\n\nsmall differences are observed (within a few mmHg in most cases)\n\naccuracy decreases slightly during movement\n\n\n\n\nFrom Results to Evidence\nAt this point, we do not yet make a claim.\nInstead, we ask:\n\nAre the differences clinically acceptable?\n\nIs the performance consistent under intended conditions?\n\nDo the limitations affect how the device will be used?\n\nThis step — interpreting results in context of intended use — is what turns data into evidence.\n\n\n\nClinical Evidence (Conceptual)\nFrom this evaluation, we may conclude:\n\nthe device performs comparably to the reference under typical conditions\n\nit provides additional value through continuous monitoring\n\nlimitations (e.g., movement sensitivity) are understood and manageable\n\n\n\n\nDefensible Claim (What we are working toward)\n\nThe device provides clinically acceptable blood pressure measurements for continuous monitoring under intended use conditions and supports improved management of hypertension.\n\n\n\n\nKey Insight: Clinical evidence is not just about results. It is about whether those results are sufficient to support a clear and justified clinical claim.\n\n\n\nThis example illustrates how clinical evidence is always evaluated in relation to intended use.",
     "crumbs": [
       "Foundations",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Clinical Evidence and Intended Use</span>"
@@ -256,73 +278,84 @@
     "href": "03-evidence-review-and-study-appraisal.html",
     "title": "Evidence Review and Study Appraisal",
     "section": "",
-    "text": "Framework Position\nThis chapter corresponds to the Evidence Review stage.\nIt focuses on evaluating how reliable each study is.",
+    "text": "Framework Position\nIn the previous chapter, we defined clinical evidence and explained why intended use matters.\nThis chapter moves one step further.\nOnce evidence has been identified, it must be reviewed critically. The goal is not only to ask whether a study reports positive findings, but whether the study is trustworthy, relevant, and sufficient to support the claim being made.",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Evidence Review and Study Appraisal</span>"
     ]
   },
   {
-    "objectID": "03-evidence-review-and-study-appraisal.html#from-relevance-to-reliability",
-    "href": "03-evidence-review-and-study-appraisal.html#from-relevance-to-reliability",
+    "objectID": "03-evidence-review-and-study-appraisal.html#why-study-appraisal-matters",
+    "href": "03-evidence-review-and-study-appraisal.html#why-study-appraisal-matters",
     "title": "Evidence Review and Study Appraisal",
-    "section": "From relevance to reliability",
-    "text": "From relevance to reliability\nIf the previous chapter established:\n👉 Is the evidence appropriate?\nThis chapter asks:\n👉 How much confidence can we place in it?",
+    "section": "Why study appraisal matters",
+    "text": "Why study appraisal matters\nNot all studies contribute equally to clinical evaluation.\nTwo studies may appear to support the same conclusion, while differing substantially in:\n\ndesign\n\npopulation\n\ncomparator\n\nendpoints\n\nconduct and reporting quality\n\nA study may look persuasive on the surface, yet still provide weak support if it is poorly designed or misaligned with intended use.\nThe key question is:\n👉 Does this study provide reliable and relevant evidence for this device and its intended use?",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Evidence Review and Study Appraisal</span>"
     ]
   },
   {
-    "objectID": "03-evidence-review-and-study-appraisal.html#what-is-study-appraisal",
-    "href": "03-evidence-review-and-study-appraisal.html#what-is-study-appraisal",
+    "objectID": "03-evidence-review-and-study-appraisal.html#what-study-appraisal-examines",
+    "href": "03-evidence-review-and-study-appraisal.html#what-study-appraisal-examines",
     "title": "Evidence Review and Study Appraisal",
-    "section": "What is study appraisal?",
-    "text": "What is study appraisal?\nStudy appraisal evaluates: (see standard approaches in systematic review methods (Higgins et al. 2022)).\n\ndesign\n\nconduct\n\nanalysis\n\nreporting\n\nThe goal is to determine the strength of evidence.",
+    "section": "What study appraisal examines",
+    "text": "What study appraisal examines\nStudy appraisal is the structured review of whether evidence is fit to inform clinical evaluation.\nThis includes asking whether:\n\nthe study design is appropriate for the question\n\nthe study population matches the intended use population\n\nthe comparator is relevant and credible\n\nthe endpoints are meaningful for safety, performance, or clinical benefit\n\nthe methods reduce the risk of bias\n\nthe findings are interpretable in the real clinical context\n\nThis is the point where evidence review moves beyond summary and into judgment.",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Evidence Review and Study Appraisal</span>"
     ]
   },
   {
-    "objectID": "03-evidence-review-and-study-appraisal.html#core-dimensions",
-    "href": "03-evidence-review-and-study-appraisal.html#core-dimensions",
+    "objectID": "03-evidence-review-and-study-appraisal.html#core-elements-of-study-appraisal",
+    "href": "03-evidence-review-and-study-appraisal.html#core-elements-of-study-appraisal",
     "title": "Evidence Review and Study Appraisal",
-    "section": "Core dimensions",
-    "text": "Core dimensions\n\nStudy design\n\nrandomized vs observational\n\ncontrolled vs uncontrolled\n\n\n\nPopulation\n\nmatches intended use\n\nrepresentative of real-world patients\n\n\n\nEndpoints\n\nclinically meaningful\n\nclearly defined\n\n\n\nSample size\n\nadequate for conclusions\n\nnot underpowered\n\n\n\nData completeness\n\nmissing data\n\nfollow-up\n\n\n\nAnalysis\n\nappropriate statistical methods\n\nvalid comparisons",
+    "section": "Core elements of study appraisal",
+    "text": "Core elements of study appraisal\n\nStudy design\nThe design affects how much confidence can be placed in the findings.\nExamples include:\n\nrandomized studies\n\nnon-randomized comparative studies\n\nsingle-arm investigations\n\nobservational studies\n\nretrospective analyses\n\nDifferent designs can all contribute evidence, but they do not contribute equally. The design should be appropriate for the device question and the claim under evaluation.\n\n\nPopulation\nThe study population should reflect the intended use population as closely as possible.\nImportant considerations include:\n\nage group\n\ndisease condition or severity\n\nclinical setting\n\ninclusion and exclusion criteria\n\nwhether the population is representative of actual users or patients\n\nIf the study population differs substantially from the intended use population, the evidence becomes harder to apply.\n\n\nComparator\nA comparator helps place device performance in context.\nDepending on the question, this may include:\n\nstandard of care\n\nreference method\n\npredicate or equivalent device\n\nclinician judgment\n\nno comparator, where justified\n\nThe comparator should be credible and appropriate to the claim being assessed.\n\n\nEndpoints\nEndpoints should be meaningful and relevant.\nThese may include:\n\nsafety outcomes\n\ntechnical or analytical performance\n\ndiagnostic accuracy\n\nusability outcomes\n\nclinically relevant patient outcomes\n\nA common problem is relying on endpoints that are measurable but not sufficient to support the intended claim.\n\n\nBias and limitations\nAll studies have limitations.\nAppraisal should consider whether there are issues such as:\n\nselection bias\n\nmeasurement bias\n\nmissing data\n\nshort follow-up\n\ninconsistent procedures\n\nlimited generalizability\n\nThese do not always invalidate a study, but they affect how strongly its findings can be relied upon.",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Evidence Review and Study Appraisal</span>"
     ]
   },
   {
-    "objectID": "03-evidence-review-and-study-appraisal.html#internal-vs-external-validity",
-    "href": "03-evidence-review-and-study-appraisal.html#internal-vs-external-validity",
+    "objectID": "03-evidence-review-and-study-appraisal.html#revisiting-the-example-wearable-blood-pressure-monitor",
+    "href": "03-evidence-review-and-study-appraisal.html#revisiting-the-example-wearable-blood-pressure-monitor",
     "title": "Evidence Review and Study Appraisal",
-    "section": "Internal vs external validity",
-    "text": "Internal vs external validity\nInternal validity - are results trustworthy within the study?\nExternal validity - are results applicable in practice?\nBoth are required.",
+    "section": "Revisiting the example: wearable blood pressure monitor",
+    "text": "Revisiting the example: wearable blood pressure monitor\nTo make study appraisal concrete, return to the example introduced in the previous chapter.\nA company develops a wearable blood pressure monitor intended for continuous, non-invasive monitoring in adults with hypertension under ambulatory, real-world conditions.\nSuppose the clinical evidence includes a prospective comparative study evaluating the wearable device against a validated clinical blood pressure cuff.\n\n\nStudy design\nThe study is prospective and compares device readings to a reference standard.\nThis is useful because it directly evaluates agreement between the device under assessment and an accepted comparator.\nAt the same time, the study design still needs scrutiny. We would want to know:\n\nhow measurements were scheduled\n\nwhether procedures were standardized\n\nwhether both devices were used under comparable conditions\n\nwhether the study captured both controlled and real-world use\n\n\n\n\nPopulation\nThe study includes:\n\nadults with hypertension\n\nparticipants monitored in both clinic and ambulatory settings\n\nThis appears relevant to intended use.\nHowever, appraisal should still ask:\n\nDoes the population represent the range of likely users?\n\nWere important subgroups included?\n\nWas the sample too narrow in age, severity, or context?\n\nA study may be technically sound but still limited if its participants do not reflect real intended users.\n\n\n\nComparator\nThe comparator is a validated blood pressure cuff.\nThis is appropriate because the core question is whether the wearable provides measurements that are acceptably close to an established method.\nA weak or inappropriate comparator would reduce confidence in the study, even if the results looked favorable.\n\n\n\nEndpoints\nThe study reports endpoints such as:\n\nmean difference between wearable and cuff measurements\n\nproportion of readings within acceptable clinical thresholds\n\nperformance under rest and movement conditions\n\nThese endpoints are useful because they connect directly to clinical acceptability.\nAppraisal should still ask:\n\nAre these thresholds justified?\n\nAre the endpoints sufficient to support the intended clinical claim?\n\nDo they reflect actual use conditions?",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Evidence Review and Study Appraisal</span>"
     ]
   },
   {
-    "objectID": "03-evidence-review-and-study-appraisal.html#common-pitfalls",
-    "href": "03-evidence-review-and-study-appraisal.html#common-pitfalls",
+    "objectID": "03-evidence-review-and-study-appraisal.html#appraisal-questions-for-the-example",
+    "href": "03-evidence-review-and-study-appraisal.html#appraisal-questions-for-the-example",
     "title": "Evidence Review and Study Appraisal",
-    "section": "Common pitfalls",
-    "text": "Common pitfalls\n\nassuming publication = quality\n\nfocusing only on statistical significance\n\nignoring limitations\n\ncombining heterogeneous studies",
+    "section": "Appraisal questions for the example",
+    "text": "Appraisal questions for the example\nAt this stage, a structured review might ask:\n\nDoes the study design appropriately address the device question?\n\nDoes the population align with intended use?\n\nIs the comparator acceptable and clinically meaningful?\n\nAre the endpoints relevant to safety, performance, and benefit?\n\nWere real-world use conditions adequately represented?\n\nDo the findings support the proposed claim, or only part of it?\n\nThese questions move us from simply reading results to judging evidence quality.",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Evidence Review and Study Appraisal</span>"
     ]
   },
   {
-    "objectID": "03-evidence-review-and-study-appraisal.html#structured-appraisal",
-    "href": "03-evidence-review-and-study-appraisal.html#structured-appraisal",
+    "objectID": "03-evidence-review-and-study-appraisal.html#potential-limitations-in-the-example",
+    "href": "03-evidence-review-and-study-appraisal.html#potential-limitations-in-the-example",
     "title": "Evidence Review and Study Appraisal",
-    "section": "Structured appraisal",
-    "text": "Structured appraisal\nA simple approach:\n\nWhat was done?\n\nWho was studied?\n\nWhat was measured?\n\nHow was it analyzed?\n\nWhat are the limitations?",
+    "section": "Potential limitations in the example",
+    "text": "Potential limitations in the example\nEven if the findings appear favorable, limitations may affect interpretation.\nPossible concerns include:\n\nreduced accuracy during movement\n\nsmall sample size\n\nlimited diversity of participants\n\nshort monitoring duration\n\ninsufficient representation of real-world variability\n\nThese limitations do not automatically invalidate the evidence. However, they shape what can reasonably be concluded.\nFor example, good performance at rest does not automatically justify a claim about reliable continuous monitoring in ambulatory conditions.",
+    "crumbs": [
+      "Core Evaluation Reasoning",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Evidence Review and Study Appraisal</span>"
+    ]
+  },
+  {
+    "objectID": "03-evidence-review-and-study-appraisal.html#from-study-results-to-evidence-judgment",
+    "href": "03-evidence-review-and-study-appraisal.html#from-study-results-to-evidence-judgment",
+    "title": "Evidence Review and Study Appraisal",
+    "section": "From study results to evidence judgment",
+    "text": "From study results to evidence judgment\nSuppose the study shows strong agreement with the reference cuff under controlled conditions and slightly weaker agreement during movement.\nA superficial reading might conclude:\n\nThe device works well.\n\nA proper appraisal asks something more precise:\n\nIs the level of agreement clinically acceptable?\n\nUnder which conditions is performance reliable?\n\nAre the limitations minor, or do they affect intended use directly?\n\nDoes this study support the full claim, or only a narrower one?\n\nThis is the transition from results to evidence judgment.\n\n\n\nKey Insight: A positive study is not automatically strong evidence. Evidence must be appraised for design quality, relevance, and interpretability in relation to intended use.",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Evidence Review and Study Appraisal</span>"
@@ -333,7 +366,7 @@
     "href": "03-evidence-review-and-study-appraisal.html#key-takeaway",
     "title": "Evidence Review and Study Appraisal",
     "section": "Key takeaway",
-    "text": "Key takeaway\nStudy appraisal determines how much weight each study carries.\nWithout it, clinical evaluation becomes descriptive rather than analytical.",
+    "text": "Key takeaway\nStudy appraisal is the process of deciding whether a study is credible, relevant, and sufficient to support clinical evaluation.\nThe important question is not simply whether a study reports favorable findings.\nIt is whether the study provides trustworthy support for a defensible claim about the device.",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Evidence Review and Study Appraisal</span>"
@@ -344,7 +377,7 @@
     "href": "03-evidence-review-and-study-appraisal.html#what-comes-next",
     "title": "Evidence Review and Study Appraisal",
     "section": "What comes next",
-    "text": "What comes next\nThe next chapter examines bias, quality, and limitations in more depth.\n\n\n\n\nHiggins, Julian P. T., James Thomas, Jacqueline Chandler, Miranda Cumpston, Tianjing Li, Matthew J. Page, and Vivian A. Welch, eds. 2022. Cochrane Handbook for Systematic Reviews of Interventions. 2nd ed. Wiley. https://training.cochrane.org/handbook.",
+    "text": "What comes next\nThe next chapter examines bias, quality, and limitations in greater detail, showing how weaknesses in evidence can affect the strength of the final evaluation.",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Evidence Review and Study Appraisal</span>"
@@ -355,7 +388,18 @@
     "href": "04-bias-quality-and-limitations.html",
     "title": "Bias, Quality, and Limitations",
     "section": "",
-    "text": "Framework Position\nThis chapter deepens the Evidence Review stage by making one critical aspect explicit:\n👉 No study is perfect.\nAll evidence carries: - bias\n- uncertainty\n- limitations\nThe goal is not to eliminate them, but to understand them.",
+    "text": "Framework Position\nThis chapter deepens the Evidence Review stage by making one critical aspect explicit:\n👉 No study is perfect.\nAll evidence carries:\nThe goal is not to eliminate them, but to understand them.",
+    "crumbs": [
+      "Core Evaluation Reasoning",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bias, Quality, and Limitations</span>"
+    ]
+  },
+  {
+    "objectID": "04-bias-quality-and-limitations.html#framework-position",
+    "href": "04-bias-quality-and-limitations.html#framework-position",
+    "title": "Bias, Quality, and Limitations",
+    "section": "",
+    "text": "bias\n\nuncertainty\n\nlimitations",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bias, Quality, and Limitations</span>"
@@ -377,7 +421,7 @@
     "href": "04-bias-quality-and-limitations.html#what-is-bias",
     "title": "Bias, Quality, and Limitations",
     "section": "What is bias?",
-    "text": "What is bias?\nBias is a systematic error that distorts results. (Hernán and Robins 2020)\nIt can: - exaggerate effects\n- hide true effects\n- create false conclusions\nBias is not random noise.\nIt consistently pushes results in a direction.",
+    "text": "What is bias?\nBias is a systematic error that distorts results. (Hernán and Robins 2020)\nIt can:\n\nexaggerate effects\n\nhide true effects\n\ncreate false conclusions\n\nBias is not random noise.\nIt consistently pushes results in a direction.",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bias, Quality, and Limitations</span>"
@@ -388,7 +432,7 @@
     "href": "04-bias-quality-and-limitations.html#common-types-of-bias",
     "title": "Bias, Quality, and Limitations",
     "section": "Common types of bias",
-    "text": "Common types of bias\n\nSelection bias\n\nnon-representative participants\n\ninappropriate inclusion/exclusion\n\n👉 affects generalizability\n\n\n\nMeasurement bias\n\ninaccurate measurements\n\ninconsistent methods\n\n👉 affects outcome validity\n\n\n\nConfounding\n\nexternal factors influence results\n\nExample: - age, comorbidities, baseline differences\n👉 affects causal interpretation\n\n\n\nReporting bias\n\nselective reporting of outcomes\n\nomission of negative results\n\n👉 affects completeness of evidence\n\n\n\nAttrition bias\n\nloss of participants\n\nincomplete follow-up\n\n👉 affects reliability of conclusions",
+    "text": "Common types of bias\n\nSelection bias\n\nnon-representative participants\n\ninappropriate inclusion/exclusion\n\n👉 affects generalizability\n\n\n\nMeasurement bias\n\ninaccurate measurements\n\ninconsistent methods\n\n👉 affects outcome validity\n\n\n\nConfounding\n\nexternal factors influence results\n\nExample:\n\nage, comorbidities, baseline differences\n\n👉 affects causal interpretation\n\n\n\nReporting bias\n\nselective reporting of outcomes\n\nomission of negative results\n\n👉 affects completeness of evidence\n\n\n\nAttrition bias\n\nloss of participants\n\nincomplete follow-up\n\n👉 affects reliability of conclusions",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bias, Quality, and Limitations</span>"
@@ -399,7 +443,7 @@
     "href": "04-bias-quality-and-limitations.html#what-are-limitations",
     "title": "Bias, Quality, and Limitations",
     "section": "What are limitations?",
-    "text": "What are limitations?\nLimitations are constraints of the study.\nThey may include: - small sample size\n- short follow-up duration\n- restricted populations\n- limited endpoints\nLimitations do not invalidate a study.\nBut they restrict what can be concluded.",
+    "text": "What are limitations?\nLimitations are constraints of the study.\nThey may include:\n\nsmall sample size\n\nshort follow-up duration\n\nrestricted populations\n\nlimited endpoints\n\nLimitations do not invalidate a study.\nBut they restrict what can be concluded.",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bias, Quality, and Limitations</span>"
@@ -410,7 +454,7 @@
     "href": "04-bias-quality-and-limitations.html#quality-vs-bias",
     "title": "Bias, Quality, and Limitations",
     "section": "Quality vs bias",
-    "text": "Quality vs bias\nThese are related but different:\n\nQuality → how well the study was conducted\n\nBias → how results may be systematically distorted\n\nA study can be: - high quality but still biased\n- low quality with unclear bias",
+    "text": "Quality vs bias\nThese are related but different:\n\nQuality → how well the study was conducted\n\nBias → how results may be systematically distorted\n\nA study can be:\n\nhigh quality but still biased\n\nlow quality with unclear bias",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bias, Quality, and Limitations</span>"
@@ -476,7 +520,18 @@
     "href": "05-risk-benefit-evaluation.html",
     "title": "Risk-Benefit Evaluation",
     "section": "",
-    "text": "Framework Position\nThis chapter corresponds to the Risk–Benefit Evaluation stage of the framework.\nAfter: - defining evidence (Chapter 02)\n- appraising studies (Chapter 03)\n- identifying bias and limitations (Chapter 04)\nwe now ask:\n👉 Does the benefit outweigh the risk for the intended use?",
+    "text": "Framework Position\nThis chapter corresponds to the Risk–Benefit Evaluation stage of the framework.\nAfter:\nwe now ask:\n👉 Does the benefit outweigh the risk for the intended use?",
+    "crumbs": [
+      "Core Evaluation Reasoning",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Risk-Benefit Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "05-risk-benefit-evaluation.html#framework-position",
+    "href": "05-risk-benefit-evaluation.html#framework-position",
+    "title": "Risk-Benefit Evaluation",
+    "section": "",
+    "text": "defining evidence (Chapter 02)\n\nappraising studies (Chapter 03)\n\nidentifying bias and limitations (Chapter 04)",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Risk-Benefit Evaluation</span>"
@@ -608,7 +663,18 @@
     "href": "06-equivalence-and-justification.html",
     "title": "Equivalence and Justification",
     "section": "",
-    "text": "Framework Position\nThis chapter corresponds to the Equivalence & Justification stage of the framework.\nAfter establishing: - what evidence exists (Chapter 02)\n- how reliable it is (Chapter 03)\n- its limitations (Chapter 04)\n- and how benefits compare to risks (Chapter 05)\nwe now ask:\n👉 Can this evidence be used to justify claims for this device?",
+    "text": "Framework Position\nThis chapter corresponds to the Equivalence & Justification stage of the framework.\nAfter establishing:\nwe now ask:\n👉 Can this evidence be used to justify claims for this device?",
+    "crumbs": [
+      "Core Evaluation Reasoning",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equivalence and Justification</span>"
+    ]
+  },
+  {
+    "objectID": "06-equivalence-and-justification.html#framework-position",
+    "href": "06-equivalence-and-justification.html#framework-position",
+    "title": "Equivalence and Justification",
+    "section": "",
+    "text": "what evidence exists (Chapter 02)\n\nhow reliable it is (Chapter 03)\n\nits limitations (Chapter 04)\n\nand how benefits compare to risks (Chapter 05)",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equivalence and Justification</span>"
@@ -619,7 +685,7 @@
     "href": "06-equivalence-and-justification.html#what-is-equivalence",
     "title": "Equivalence and Justification",
     "section": "What is equivalence?",
-    "text": "What is equivalence?\nEquivalence refers to demonstrating that a device is sufficiently similar to another device (or evidence source) such that: (“MEDDEV 2.7/1 Rev. 4: Clinical Evaluation: A Guide for Manufacturers and Notified Bodies” 2016)\n👉 evidence from one can support conclusions about the other\nThis is commonly used when: - direct clinical data is limited\n- existing evidence is leveraged",
+    "text": "What is equivalence?\nEquivalence refers to demonstrating that a device is sufficiently similar to another device (or evidence source) such that: (“MEDDEV 2.7/1 Rev. 4: Clinical Evaluation: A Guide for Manufacturers and Notified Bodies” 2016)\n👉 evidence from one can support conclusions about the other\nThis is commonly used when:\n\ndirect clinical data is limited\n\nexisting evidence is leveraged",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equivalence and Justification</span>"
@@ -663,7 +729,7 @@
     "href": "06-equivalence-and-justification.html#evidence-bridging",
     "title": "Equivalence and Justification",
     "section": "Evidence bridging",
-    "text": "Evidence bridging\nA common use case:\n👉 bridging evidence from: - similar devices\n- previous generations\n- related technologies\nKey requirement:\n\ndifferences must not affect clinical performance",
+    "text": "Evidence bridging\nA common use case:\n👉 bridging evidence from:\n\nsimilar devices\n\nprevious generations\n\nrelated technologies\n\nKey requirement:\n\ndifferences must not affect clinical performance",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equivalence and Justification</span>"
@@ -740,7 +806,18 @@
     "href": "07-clinical-context-and-applicability.html",
     "title": "Clinical Context and Applicability",
     "section": "",
-    "text": "Framework Position\nThis chapter corresponds to the Clinical Context & Applicability stage.\nAfter:\n- evaluating evidence\n- understanding bias and limitations\n- assessing risk-benefit\n- establishing equivalence\nwe now ask:\n👉 Does this evidence hold in the real clinical setting where the device will be used?",
+    "text": "Framework Position\nThis chapter corresponds to the Clinical Context & Applicability stage.\nAfter:\nwe now ask:\n👉 Does this evidence hold in the real clinical setting where the device will be used?",
+    "crumbs": [
+      "Core Evaluation Reasoning",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Clinical Context and Applicability</span>"
+    ]
+  },
+  {
+    "objectID": "07-clinical-context-and-applicability.html#framework-position",
+    "href": "07-clinical-context-and-applicability.html#framework-position",
+    "title": "Clinical Context and Applicability",
+    "section": "",
+    "text": "evaluating evidence\n\nunderstanding bias and limitations\n\nassessing risk-benefit\n\nestablishing equivalence",
     "crumbs": [
       "Core Evaluation Reasoning",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Clinical Context and Applicability</span>"
@@ -1675,7 +1752,7 @@
     "href": "999-references.html",
     "title": "References",
     "section": "",
-    "text": "“Factors to Consider When Making Benefit-Risk Determinations in\nMedical Device Premarket Approval and de Novo Classifications.”\n2016. U.S. Food; Drug Administration. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de.\n\n\nGuyatt, Gordon H., Andrew D. Oxman, Gunn E. Vist, Regina Kunz, Yngve\nFalck-Ytter, Pablo Alonso-Coello, and Holger J. Schünemann. 2008.\n“GRADE: An Emerging Consensus on Rating Quality of Evidence and\nStrength of Recommendations.” BMJ 336 (7650): 924–26. https://doi.org/10.1136/bmj.39489.470347.AD.\n\n\nHernán, Miguel A., and James M. Robins. 2020. Causal Inference: What\nIf. Chapman & Hall/CRC. https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/.\n\n\nHiggins, Julian P. T., James Thomas, Jacqueline Chandler, Miranda\nCumpston, Tianjing Li, Matthew J. Page, and Vivian A. Welch, eds. 2022.\nCochrane Handbook for Systematic Reviews of Interventions. 2nd\ned. Wiley. https://training.cochrane.org/handbook.\n\n\n“MEDDEV 2.7/1 Rev. 4: Clinical Evaluation: A Guide for\nManufacturers and Notified Bodies.” 2016. European Commission. https://ec.europa.eu/docsroom/documents/17522/attachments/1/translations/en/renditions/native.\n\n\n“Regulation (EU) 2017/745 on Medical Devices.” 2017.\nEuropean Parliament; Council of the European Union. https://eur-lex.europa.eu/eli/reg/2017/745/oj.",
+    "text": "“Factors to Consider When Making Benefit-Risk Determinations in\nMedical Device Premarket Approval and de Novo Classifications.”\n2016. U.S. Food; Drug Administration. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de.\n\n\nGuyatt, Gordon H., Andrew D. Oxman, Gunn E. Vist, Regina Kunz, Yngve\nFalck-Ytter, Pablo Alonso-Coello, and Holger J. Schünemann. 2008.\n“GRADE: An Emerging Consensus on Rating Quality of Evidence and\nStrength of Recommendations.” BMJ 336 (7650): 924–26. https://doi.org/10.1136/bmj.39489.470347.AD.\n\n\nHernán, Miguel A., and James M. Robins. 2020. Causal Inference: What\nIf. Chapman & Hall/CRC. https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/.\n\n\n“MEDDEV 2.7/1 Rev. 4: Clinical Evaluation: A Guide for\nManufacturers and Notified Bodies.” 2016. European Commission. https://ec.europa.eu/docsroom/documents/17522/attachments/1/translations/en/renditions/native.\n\n\n“Regulation (EU) 2017/745 on Medical Devices.” 2017.\nEuropean Parliament; Council of the European Union. https://eur-lex.europa.eu/eli/reg/2017/745/oj.",
     "crumbs": [
       "Reference",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>References</span>"

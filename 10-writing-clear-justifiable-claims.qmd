@@ -85,10 +85,12 @@ Strong claims often include qualifiers:
 
 ## Matching evidence strength
 
-High-quality, consistent evidence:  
+High-quality, consistent evidence: 
+
 → allows stronger claims  
 
 Limited or uncertain evidence:  
+
 → requires cautious wording  
 
 👉 Language must reflect certainty level

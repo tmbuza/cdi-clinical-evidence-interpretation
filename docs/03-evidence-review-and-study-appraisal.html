@@ -20,27 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -274,20 +254,26 @@ div.csl-indent {
    
   <ul>
   <li><a href="#framework-position" id="toc-framework-position" class="nav-link active" data-scroll-target="#framework-position">Framework Position</a></li>
-  <li><a href="#from-relevance-to-reliability" id="toc-from-relevance-to-reliability" class="nav-link" data-scroll-target="#from-relevance-to-reliability">From relevance to reliability</a></li>
-  <li><a href="#what-is-study-appraisal" id="toc-what-is-study-appraisal" class="nav-link" data-scroll-target="#what-is-study-appraisal">What is study appraisal?</a></li>
-  <li><a href="#core-dimensions" id="toc-core-dimensions" class="nav-link" data-scroll-target="#core-dimensions">Core dimensions</a>
+  <li><a href="#why-study-appraisal-matters" id="toc-why-study-appraisal-matters" class="nav-link" data-scroll-target="#why-study-appraisal-matters">Why study appraisal matters</a></li>
+  <li><a href="#what-study-appraisal-examines" id="toc-what-study-appraisal-examines" class="nav-link" data-scroll-target="#what-study-appraisal-examines">What study appraisal examines</a></li>
+  <li><a href="#core-elements-of-study-appraisal" id="toc-core-elements-of-study-appraisal" class="nav-link" data-scroll-target="#core-elements-of-study-appraisal">Core elements of study appraisal</a>
   <ul class="collapse">
   <li><a href="#study-design" id="toc-study-design" class="nav-link" data-scroll-target="#study-design">Study design</a></li>
   <li><a href="#population" id="toc-population" class="nav-link" data-scroll-target="#population">Population</a></li>
+  <li><a href="#comparator" id="toc-comparator" class="nav-link" data-scroll-target="#comparator">Comparator</a></li>
   <li><a href="#endpoints" id="toc-endpoints" class="nav-link" data-scroll-target="#endpoints">Endpoints</a></li>
-  <li><a href="#sample-size" id="toc-sample-size" class="nav-link" data-scroll-target="#sample-size">Sample size</a></li>
-  <li><a href="#data-completeness" id="toc-data-completeness" class="nav-link" data-scroll-target="#data-completeness">Data completeness</a></li>
-  <li><a href="#analysis" id="toc-analysis" class="nav-link" data-scroll-target="#analysis">Analysis</a></li>
+  <li><a href="#bias-and-limitations" id="toc-bias-and-limitations" class="nav-link" data-scroll-target="#bias-and-limitations">Bias and limitations</a></li>
   </ul></li>
-  <li><a href="#internal-vs-external-validity" id="toc-internal-vs-external-validity" class="nav-link" data-scroll-target="#internal-vs-external-validity">Internal vs external validity</a></li>
-  <li><a href="#common-pitfalls" id="toc-common-pitfalls" class="nav-link" data-scroll-target="#common-pitfalls">Common pitfalls</a></li>
-  <li><a href="#structured-appraisal" id="toc-structured-appraisal" class="nav-link" data-scroll-target="#structured-appraisal">Structured appraisal</a></li>
+  <li><a href="#revisiting-the-example-wearable-blood-pressure-monitor" id="toc-revisiting-the-example-wearable-blood-pressure-monitor" class="nav-link" data-scroll-target="#revisiting-the-example-wearable-blood-pressure-monitor">Revisiting the example: wearable blood pressure monitor</a>
+  <ul class="collapse">
+  <li><a href="#study-design-1" id="toc-study-design-1" class="nav-link" data-scroll-target="#study-design-1">Study design</a></li>
+  <li><a href="#population-1" id="toc-population-1" class="nav-link" data-scroll-target="#population-1">Population</a></li>
+  <li><a href="#comparator-1" id="toc-comparator-1" class="nav-link" data-scroll-target="#comparator-1">Comparator</a></li>
+  <li><a href="#endpoints-1" id="toc-endpoints-1" class="nav-link" data-scroll-target="#endpoints-1">Endpoints</a></li>
+  </ul></li>
+  <li><a href="#appraisal-questions-for-the-example" id="toc-appraisal-questions-for-the-example" class="nav-link" data-scroll-target="#appraisal-questions-for-the-example">Appraisal questions for the example</a></li>
+  <li><a href="#potential-limitations-in-the-example" id="toc-potential-limitations-in-the-example" class="nav-link" data-scroll-target="#potential-limitations-in-the-example">Potential limitations in the example</a></li>
+  <li><a href="#from-study-results-to-evidence-judgment" id="toc-from-study-results-to-evidence-judgment" class="nav-link" data-scroll-target="#from-study-results-to-evidence-judgment">From study results to evidence judgment</a></li>
   <li><a href="#key-takeaway" id="toc-key-takeaway" class="nav-link" data-scroll-target="#key-takeaway">Key takeaway</a></li>
   <li><a href="#what-comes-next" id="toc-what-comes-next" class="nav-link" data-scroll-target="#what-comes-next">What comes next</a></li>
   </ul>
@@ -326,142 +312,294 @@ div.csl-indent {
 <li><strong>ID:</strong> CE-L03</li>
 <li><strong>Type:</strong> Lesson</li>
 <li><strong>Audience:</strong> Clinical, Regulatory, and Evidence Professionals</li>
-<li><strong>Theme:</strong> Appraising study quality and reliability</li>
+<li><strong>Theme:</strong> Reviewing study quality and relevance</li>
 </ul>
 </div>
 <section id="framework-position" class="level2">
 <h2 class="anchored" data-anchor-id="framework-position">Framework Position</h2>
-<p>This chapter corresponds to the <strong>Evidence Review</strong> stage.</p>
-<p>It focuses on evaluating how reliable each study is.</p>
+<p>In the previous chapter, we defined clinical evidence and explained why intended use matters.</p>
+<p>This chapter moves one step further.</p>
+<p>Once evidence has been identified, it must be reviewed critically. The goal is not only to ask whether a study reports positive findings, but whether the study is trustworthy, relevant, and sufficient to support the claim being made.</p>
 <hr>
 </section>
-<section id="from-relevance-to-reliability" class="level2">
-<h2 class="anchored" data-anchor-id="from-relevance-to-reliability">From relevance to reliability</h2>
-<p>If the previous chapter established:</p>
-<p>👉 <em>Is the evidence appropriate?</em></p>
-<p>This chapter asks:</p>
-<p>👉 <em>How much confidence can we place in it?</em></p>
-<hr>
-</section>
-<section id="what-is-study-appraisal" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-study-appraisal">What is study appraisal?</h2>
-<p>Study appraisal evaluates: (see standard approaches in systematic review methods <span class="citation" data-cites="higgins_cochrane_2022">(<a href="999-references.html#ref-higgins_cochrane_2022" role="doc-biblioref">Higgins et al. 2022</a>)</span>).</p>
+<section id="why-study-appraisal-matters" class="level2">
+<h2 class="anchored" data-anchor-id="why-study-appraisal-matters">Why study appraisal matters</h2>
+<p>Not all studies contribute equally to clinical evaluation.</p>
+<p>Two studies may appear to support the same conclusion, while differing substantially in:</p>
 <ul>
 <li>design<br>
 </li>
-<li>conduct<br>
+<li>population<br>
 </li>
-<li>analysis<br>
+<li>comparator<br>
 </li>
-<li>reporting</li>
+<li>endpoints<br>
+</li>
+<li>conduct and reporting quality</li>
 </ul>
-<p>The goal is to determine the strength of evidence.</p>
+<p>A study may look persuasive on the surface, yet still provide weak support if it is poorly designed or misaligned with intended use.</p>
+<p>The key question is:</p>
+<p>👉 <em>Does this study provide reliable and relevant evidence for this device and its intended use?</em></p>
 <hr>
 </section>
-<section id="core-dimensions" class="level2">
-<h2 class="anchored" data-anchor-id="core-dimensions">Core dimensions</h2>
+<section id="what-study-appraisal-examines" class="level2">
+<h2 class="anchored" data-anchor-id="what-study-appraisal-examines">What study appraisal examines</h2>
+<p>Study appraisal is the structured review of whether evidence is fit to inform clinical evaluation.</p>
+<p>This includes asking whether:</p>
+<ul>
+<li>the study design is appropriate for the question<br>
+</li>
+<li>the study population matches the intended use population<br>
+</li>
+<li>the comparator is relevant and credible<br>
+</li>
+<li>the endpoints are meaningful for safety, performance, or clinical benefit<br>
+</li>
+<li>the methods reduce the risk of bias<br>
+</li>
+<li>the findings are interpretable in the real clinical context</li>
+</ul>
+<p>This is the point where evidence review moves beyond summary and into judgment.</p>
+<hr>
+</section>
+<section id="core-elements-of-study-appraisal" class="level2">
+<h2 class="anchored" data-anchor-id="core-elements-of-study-appraisal">Core elements of study appraisal</h2>
 <section id="study-design" class="level3">
 <h3 class="anchored" data-anchor-id="study-design">Study design</h3>
+<p>The design affects how much confidence can be placed in the findings.</p>
+<p>Examples include:</p>
 <ul>
-<li>randomized vs observational<br>
+<li>randomized studies<br>
 </li>
-<li>controlled vs uncontrolled</li>
+<li>non-randomized comparative studies<br>
+</li>
+<li>single-arm investigations<br>
+</li>
+<li>observational studies<br>
+</li>
+<li>retrospective analyses</li>
 </ul>
+<p>Different designs can all contribute evidence, but they do not contribute equally. The design should be appropriate for the device question and the claim under evaluation.</p>
 </section>
 <section id="population" class="level3">
 <h3 class="anchored" data-anchor-id="population">Population</h3>
+<p>The study population should reflect the intended use population as closely as possible.</p>
+<p>Important considerations include:</p>
 <ul>
-<li>matches intended use<br>
+<li>age group<br>
 </li>
-<li>representative of real-world patients</li>
+<li>disease condition or severity<br>
+</li>
+<li>clinical setting<br>
+</li>
+<li>inclusion and exclusion criteria<br>
+</li>
+<li>whether the population is representative of actual users or patients</li>
 </ul>
+<p>If the study population differs substantially from the intended use population, the evidence becomes harder to apply.</p>
+</section>
+<section id="comparator" class="level3">
+<h3 class="anchored" data-anchor-id="comparator">Comparator</h3>
+<p>A comparator helps place device performance in context.</p>
+<p>Depending on the question, this may include:</p>
+<ul>
+<li>standard of care<br>
+</li>
+<li>reference method<br>
+</li>
+<li>predicate or equivalent device<br>
+</li>
+<li>clinician judgment<br>
+</li>
+<li>no comparator, where justified</li>
+</ul>
+<p>The comparator should be credible and appropriate to the claim being assessed.</p>
 </section>
 <section id="endpoints" class="level3">
 <h3 class="anchored" data-anchor-id="endpoints">Endpoints</h3>
+<p>Endpoints should be meaningful and relevant.</p>
+<p>These may include:</p>
 <ul>
-<li>clinically meaningful<br>
+<li>safety outcomes<br>
 </li>
-<li>clearly defined</li>
-</ul>
-</section>
-<section id="sample-size" class="level3">
-<h3 class="anchored" data-anchor-id="sample-size">Sample size</h3>
-<ul>
-<li>adequate for conclusions<br>
+<li>technical or analytical performance<br>
 </li>
-<li>not underpowered</li>
+<li>diagnostic accuracy<br>
+</li>
+<li>usability outcomes<br>
+</li>
+<li>clinically relevant patient outcomes</li>
 </ul>
+<p>A common problem is relying on endpoints that are measurable but not sufficient to support the intended claim.</p>
 </section>
-<section id="data-completeness" class="level3">
-<h3 class="anchored" data-anchor-id="data-completeness">Data completeness</h3>
+<section id="bias-and-limitations" class="level3">
+<h3 class="anchored" data-anchor-id="bias-and-limitations">Bias and limitations</h3>
+<p>All studies have limitations.</p>
+<p>Appraisal should consider whether there are issues such as:</p>
 <ul>
+<li>selection bias<br>
+</li>
+<li>measurement bias<br>
+</li>
 <li>missing data<br>
 </li>
-<li>follow-up</li>
+<li>short follow-up<br>
+</li>
+<li>inconsistent procedures<br>
+</li>
+<li>limited generalizability</li>
 </ul>
+<p>These do not always invalidate a study, but they affect how strongly its findings can be relied upon.</p>
+<hr>
 </section>
-<section id="analysis" class="level3">
-<h3 class="anchored" data-anchor-id="analysis">Analysis</h3>
+</section>
+<section id="revisiting-the-example-wearable-blood-pressure-monitor" class="level2">
+<h2 class="anchored" data-anchor-id="revisiting-the-example-wearable-blood-pressure-monitor">Revisiting the example: wearable blood pressure monitor</h2>
+<p>To make study appraisal concrete, return to the example introduced in the previous chapter.</p>
+<p>A company develops a <strong>wearable blood pressure monitor</strong> intended for continuous, non-invasive monitoring in adults with hypertension under ambulatory, real-world conditions.</p>
+<p>Suppose the clinical evidence includes a prospective comparative study evaluating the wearable device against a validated clinical blood pressure cuff.</p>
+<hr>
+<section id="study-design-1" class="level3">
+<h3 class="anchored" data-anchor-id="study-design-1">Study design</h3>
+<p>The study is prospective and compares device readings to a reference standard.</p>
+<p>This is useful because it directly evaluates agreement between the device under assessment and an accepted comparator.</p>
+<p>At the same time, the study design still needs scrutiny. We would want to know:</p>
 <ul>
-<li>appropriate statistical methods<br>
+<li>how measurements were scheduled<br>
 </li>
-<li>valid comparisons</li>
+<li>whether procedures were standardized<br>
+</li>
+<li>whether both devices were used under comparable conditions<br>
+</li>
+<li>whether the study captured both controlled and real-world use</li>
 </ul>
 <hr>
 </section>
-</section>
-<section id="internal-vs-external-validity" class="level2">
-<h2 class="anchored" data-anchor-id="internal-vs-external-validity">Internal vs external validity</h2>
-<p><strong>Internal validity</strong> - are results trustworthy within the study?</p>
-<p><strong>External validity</strong> - are results applicable in practice?</p>
-<p>Both are required.</p>
-<hr>
-</section>
-<section id="common-pitfalls" class="level2">
-<h2 class="anchored" data-anchor-id="common-pitfalls">Common pitfalls</h2>
+<section id="population-1" class="level3">
+<h3 class="anchored" data-anchor-id="population-1">Population</h3>
+<p>The study includes:</p>
 <ul>
-<li>assuming publication = quality<br>
+<li>adults with hypertension<br>
 </li>
-<li>focusing only on statistical significance<br>
+<li>participants monitored in both clinic and ambulatory settings</li>
+</ul>
+<p>This appears relevant to intended use.</p>
+<p>However, appraisal should still ask:</p>
+<ul>
+<li>Does the population represent the range of likely users?<br>
 </li>
-<li>ignoring limitations<br>
+<li>Were important subgroups included?<br>
 </li>
-<li>combining heterogeneous studies</li>
+<li>Was the sample too narrow in age, severity, or context?</li>
+</ul>
+<p>A study may be technically sound but still limited if its participants do not reflect real intended users.</p>
+<hr>
+</section>
+<section id="comparator-1" class="level3">
+<h3 class="anchored" data-anchor-id="comparator-1">Comparator</h3>
+<p>The comparator is a validated blood pressure cuff.</p>
+<p>This is appropriate because the core question is whether the wearable provides measurements that are acceptably close to an established method.</p>
+<p>A weak or inappropriate comparator would reduce confidence in the study, even if the results looked favorable.</p>
+<hr>
+</section>
+<section id="endpoints-1" class="level3">
+<h3 class="anchored" data-anchor-id="endpoints-1">Endpoints</h3>
+<p>The study reports endpoints such as:</p>
+<ul>
+<li>mean difference between wearable and cuff measurements<br>
+</li>
+<li>proportion of readings within acceptable clinical thresholds<br>
+</li>
+<li>performance under rest and movement conditions</li>
+</ul>
+<p>These endpoints are useful because they connect directly to clinical acceptability.</p>
+<p>Appraisal should still ask:</p>
+<ul>
+<li>Are these thresholds justified?<br>
+</li>
+<li>Are the endpoints sufficient to support the intended clinical claim?<br>
+</li>
+<li>Do they reflect actual use conditions?</li>
 </ul>
 <hr>
 </section>
-<section id="structured-appraisal" class="level2">
-<h2 class="anchored" data-anchor-id="structured-appraisal">Structured appraisal</h2>
-<p>A simple approach:</p>
-<ol type="1">
-<li>What was done?<br>
+</section>
+<section id="appraisal-questions-for-the-example" class="level2">
+<h2 class="anchored" data-anchor-id="appraisal-questions-for-the-example">Appraisal questions for the example</h2>
+<p>At this stage, a structured review might ask:</p>
+<ul>
+<li>Does the study design appropriately address the device question?<br>
 </li>
-<li>Who was studied?<br>
+<li>Does the population align with intended use?<br>
 </li>
-<li>What was measured?<br>
+<li>Is the comparator acceptable and clinically meaningful?<br>
 </li>
-<li>How was it analyzed?<br>
+<li>Are the endpoints relevant to safety, performance, and benefit?<br>
 </li>
-<li>What are the limitations?</li>
-</ol>
+<li>Were real-world use conditions adequately represented?<br>
+</li>
+<li>Do the findings support the proposed claim, or only part of it?</li>
+</ul>
+<p>These questions move us from simply reading results to judging evidence quality.</p>
+<hr>
+</section>
+<section id="potential-limitations-in-the-example" class="level2">
+<h2 class="anchored" data-anchor-id="potential-limitations-in-the-example">Potential limitations in the example</h2>
+<p>Even if the findings appear favorable, limitations may affect interpretation.</p>
+<p>Possible concerns include:</p>
+<ul>
+<li>reduced accuracy during movement<br>
+</li>
+<li>small sample size<br>
+</li>
+<li>limited diversity of participants<br>
+</li>
+<li>short monitoring duration<br>
+</li>
+<li>insufficient representation of real-world variability</li>
+</ul>
+<p>These limitations do not automatically invalidate the evidence. However, they shape what can reasonably be concluded.</p>
+<p>For example, good performance at rest does not automatically justify a claim about reliable continuous monitoring in ambulatory conditions.</p>
+<hr>
+</section>
+<section id="from-study-results-to-evidence-judgment" class="level2">
+<h2 class="anchored" data-anchor-id="from-study-results-to-evidence-judgment">From study results to evidence judgment</h2>
+<p>Suppose the study shows strong agreement with the reference cuff under controlled conditions and slightly weaker agreement during movement.</p>
+<p>A superficial reading might conclude:</p>
+<blockquote class="blockquote">
+<p>The device works well.</p>
+</blockquote>
+<p>A proper appraisal asks something more precise:</p>
+<ul>
+<li>Is the level of agreement clinically acceptable?<br>
+</li>
+<li>Under which conditions is performance reliable?<br>
+</li>
+<li>Are the limitations minor, or do they affect intended use directly?<br>
+</li>
+<li>Does this study support the full claim, or only a narrower one?</li>
+</ul>
+<p>This is the transition from results to evidence judgment.</p>
+<hr>
+<div class="cdi-message">
+<ul>
+<li><strong>Key Insight:</strong> A positive study is not automatically strong evidence. Evidence must be appraised for design quality, relevance, and interpretability in relation to intended use.</li>
+</ul>
+</div>
 <hr>
 </section>
 <section id="key-takeaway" class="level2">
 <h2 class="anchored" data-anchor-id="key-takeaway">Key takeaway</h2>
-<p>Study appraisal determines how much weight each study carries.</p>
-<p>Without it, clinical evaluation becomes descriptive rather than analytical.</p>
+<p>Study appraisal is the process of deciding whether a study is credible, relevant, and sufficient to support clinical evaluation.</p>
+<p>The important question is not simply whether a study reports favorable findings.</p>
+<p>It is whether the study provides trustworthy support for a defensible claim about the device.</p>
 <hr>
 </section>
 <section id="what-comes-next" class="level2">
 <h2 class="anchored" data-anchor-id="what-comes-next">What comes next</h2>
-<p>The next chapter examines bias, quality, and limitations in more depth.</p>
+<p>The next chapter examines bias, quality, and limitations in greater detail, showing how weaknesses in evidence can affect the strength of the final evaluation.</p>
 
 
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
-<div id="ref-higgins_cochrane_2022" class="csl-entry" role="listitem">
-Higgins, Julian P. T., James Thomas, Jacqueline Chandler, Miranda Cumpston, Tianjing Li, Matthew J. Page, and Vivian A. Welch, eds. 2022. <em>Cochrane Handbook for Systematic Reviews of Interventions</em>. 2nd ed. Wiley. <a href="https://training.cochrane.org/handbook">https://training.cochrane.org/handbook</a>.
-</div>
-</div>
 </section>
 
 </main> <!-- /main -->

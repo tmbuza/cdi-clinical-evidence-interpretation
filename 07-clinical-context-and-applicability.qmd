@@ -12,6 +12,7 @@
 This chapter corresponds to the **Clinical Context & Applicability** stage.
 
 After:  
+
 - evaluating evidence  
 - understanding bias and limitations  
 - assessing risk-benefit  

@@ -4,111 +4,271 @@
 - **ID:** CE-L03
 - **Type:** Lesson
 - **Audience:** Clinical, Regulatory, and Evidence Professionals
-- **Theme:** Appraising study quality and reliability
+- **Theme:** Reviewing study quality and relevance
 :::
 
 ## Framework Position
 
-This chapter corresponds to the **Evidence Review** stage.
+In the previous chapter, we defined clinical evidence and explained why intended use matters.
 
-It focuses on evaluating how reliable each study is.
+This chapter moves one step further.
 
----
-
-## From relevance to reliability
-
-If the previous chapter established:
-
-👉 *Is the evidence appropriate?*
-
-This chapter asks:
-
-👉 *How much confidence can we place in it?*
+Once evidence has been identified, it must be reviewed critically. The goal is not only to ask whether a study reports positive findings, but whether the study is trustworthy, relevant, and sufficient to support the claim being made.
 
 ---
 
-## What is study appraisal?
+## Why study appraisal matters
 
-Study appraisal evaluates: (see standard approaches in systematic review methods [@higgins_cochrane_2022]).
+Not all studies contribute equally to clinical evaluation.
+
+Two studies may appear to support the same conclusion, while differing substantially in:
 
 - design  
-- conduct  
-- analysis  
-- reporting  
+- population  
+- comparator  
+- endpoints  
+- conduct and reporting quality  
 
-The goal is to determine the strength of evidence.
+A study may look persuasive on the surface, yet still provide weak support if it is poorly designed or misaligned with intended use.
+
+The key question is:
+
+👉 *Does this study provide reliable and relevant evidence for this device and its intended use?*
 
 ---
 
-## Core dimensions
+## What study appraisal examines
+
+Study appraisal is the structured review of whether evidence is fit to inform clinical evaluation.
+
+This includes asking whether:
+
+- the study design is appropriate for the question  
+- the study population matches the intended use population  
+- the comparator is relevant and credible  
+- the endpoints are meaningful for safety, performance, or clinical benefit  
+- the methods reduce the risk of bias  
+- the findings are interpretable in the real clinical context  
+
+This is the point where evidence review moves beyond summary and into judgment.
+
+---
+
+## Core elements of study appraisal
 
 ### Study design
-- randomized vs observational  
-- controlled vs uncontrolled  
+
+The design affects how much confidence can be placed in the findings.
+
+Examples include:
+
+- randomized studies  
+- non-randomized comparative studies  
+- single-arm investigations  
+- observational studies  
+- retrospective analyses  
+
+Different designs can all contribute evidence, but they do not contribute equally. The design should be appropriate for the device question and the claim under evaluation.
 
 ### Population
-- matches intended use  
-- representative of real-world patients  
+
+The study population should reflect the intended use population as closely as possible.
+
+Important considerations include:
+
+- age group  
+- disease condition or severity  
+- clinical setting  
+- inclusion and exclusion criteria  
+- whether the population is representative of actual users or patients  
+
+If the study population differs substantially from the intended use population, the evidence becomes harder to apply.
+
+### Comparator
+
+A comparator helps place device performance in context.
+
+Depending on the question, this may include:
+
+- standard of care  
+- reference method  
+- predicate or equivalent device  
+- clinician judgment  
+- no comparator, where justified  
+
+The comparator should be credible and appropriate to the claim being assessed.
 
 ### Endpoints
-- clinically meaningful  
-- clearly defined  
 
-### Sample size
-- adequate for conclusions  
-- not underpowered  
+Endpoints should be meaningful and relevant.
 
-### Data completeness
+These may include:
+
+- safety outcomes  
+- technical or analytical performance  
+- diagnostic accuracy  
+- usability outcomes  
+- clinically relevant patient outcomes  
+
+A common problem is relying on endpoints that are measurable but not sufficient to support the intended claim.
+
+### Bias and limitations
+
+All studies have limitations.
+
+Appraisal should consider whether there are issues such as:
+
+- selection bias  
+- measurement bias  
 - missing data  
-- follow-up  
+- short follow-up  
+- inconsistent procedures  
+- limited generalizability  
 
-### Analysis
-- appropriate statistical methods  
-- valid comparisons  
-
----
-
-## Internal vs external validity
-
-**Internal validity**
-- are results trustworthy within the study?
-
-**External validity**
-- are results applicable in practice?
-
-Both are required.
+These do not always invalidate a study, but they affect how strongly its findings can be relied upon.
 
 ---
 
-## Common pitfalls
+## Revisiting the example: wearable blood pressure monitor
 
-- assuming publication = quality  
-- focusing only on statistical significance  
-- ignoring limitations  
-- combining heterogeneous studies  
+To make study appraisal concrete, return to the example introduced in the previous chapter.
+
+A company develops a **wearable blood pressure monitor** intended for continuous, non-invasive monitoring in adults with hypertension under ambulatory, real-world conditions.
+
+Suppose the clinical evidence includes a prospective comparative study evaluating the wearable device against a validated clinical blood pressure cuff.
 
 ---
 
-## Structured appraisal
+### Study design
 
-A simple approach:
+The study is prospective and compares device readings to a reference standard.
 
-1. What was done?  
-2. Who was studied?  
-3. What was measured?  
-4. How was it analyzed?  
-5. What are the limitations?  
+This is useful because it directly evaluates agreement between the device under assessment and an accepted comparator.
+
+At the same time, the study design still needs scrutiny. We would want to know:
+
+- how measurements were scheduled  
+- whether procedures were standardized  
+- whether both devices were used under comparable conditions  
+- whether the study captured both controlled and real-world use  
+
+---
+
+### Population
+
+The study includes:
+
+- adults with hypertension  
+- participants monitored in both clinic and ambulatory settings  
+
+This appears relevant to intended use.
+
+However, appraisal should still ask:
+
+- Does the population represent the range of likely users?  
+- Were important subgroups included?  
+- Was the sample too narrow in age, severity, or context?  
+
+A study may be technically sound but still limited if its participants do not reflect real intended users.
+
+---
+
+### Comparator
+
+The comparator is a validated blood pressure cuff.
+
+This is appropriate because the core question is whether the wearable provides measurements that are acceptably close to an established method.
+
+A weak or inappropriate comparator would reduce confidence in the study, even if the results looked favorable.
+
+---
+
+### Endpoints
+
+The study reports endpoints such as:
+
+- mean difference between wearable and cuff measurements  
+- proportion of readings within acceptable clinical thresholds  
+- performance under rest and movement conditions  
+
+These endpoints are useful because they connect directly to clinical acceptability.
+
+Appraisal should still ask:
+
+- Are these thresholds justified?  
+- Are the endpoints sufficient to support the intended clinical claim?  
+- Do they reflect actual use conditions?  
+
+---
+
+## Appraisal questions for the example
+
+At this stage, a structured review might ask:
+
+- Does the study design appropriately address the device question?  
+- Does the population align with intended use?  
+- Is the comparator acceptable and clinically meaningful?  
+- Are the endpoints relevant to safety, performance, and benefit?  
+- Were real-world use conditions adequately represented?  
+- Do the findings support the proposed claim, or only part of it?  
+
+These questions move us from simply reading results to judging evidence quality.
+
+---
+
+## Potential limitations in the example
+
+Even if the findings appear favorable, limitations may affect interpretation.
+
+Possible concerns include:
+
+- reduced accuracy during movement  
+- small sample size  
+- limited diversity of participants  
+- short monitoring duration  
+- insufficient representation of real-world variability  
+
+These limitations do not automatically invalidate the evidence. However, they shape what can reasonably be concluded.
+
+For example, good performance at rest does not automatically justify a claim about reliable continuous monitoring in ambulatory conditions.
+
+---
+
+## From study results to evidence judgment
+
+Suppose the study shows strong agreement with the reference cuff under controlled conditions and slightly weaker agreement during movement.
+
+A superficial reading might conclude:
+
+> The device works well.
+
+A proper appraisal asks something more precise:
+
+- Is the level of agreement clinically acceptable?  
+- Under which conditions is performance reliable?  
+- Are the limitations minor, or do they affect intended use directly?  
+- Does this study support the full claim, or only a narrower one?  
+
+This is the transition from results to evidence judgment.
+
+---
+
+:::cdi-message
+- **Key Insight:** A positive study is not automatically strong evidence. Evidence must be appraised for design quality, relevance, and interpretability in relation to intended use.
+:::
 
 ---
 
 ## Key takeaway
 
-Study appraisal determines how much weight each study carries.
+Study appraisal is the process of deciding whether a study is credible, relevant, and sufficient to support clinical evaluation.
 
-Without it, clinical evaluation becomes descriptive rather than analytical.
+The important question is not simply whether a study reports favorable findings.
+
+It is whether the study provides trustworthy support for a defensible claim about the device.
 
 ---
 
 ## What comes next
 
-The next chapter examines bias, quality, and limitations in more depth.
+The next chapter examines bias, quality, and limitations in greater detail, showing how weaknesses in evidence can affect the strength of the final evaluation.
